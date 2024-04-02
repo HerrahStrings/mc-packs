@@ -1,19 +1,18 @@
-name = "Prismarine Shaders"
-filename = "Prismarine+V4.2a.zip"
+name = "Prismarine Shader (Capt Tatsu's BSL Edit)"
+filename = "Prismarine Shader V4.3a.zip"
 side = "client"
 
 [download]
-url = "https://mediafiles.forgecdn.net/files/3786/80/Prismarine+V4.2a.zip"
 hash-format = "sha1"
-hash = "a4baf386249b4d316fece052ad4f5758037a2810"
+hash = "f45126b5366850769005c5267e8d333a6a089431"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3786080
+file-id = 5225745
 project-id = 478295
 
 [option]
 optional = false
-default = true
 description = "An Iris-Compatible Shader Pack! Found Here: https://www.curseforge.com/minecraft/customization/prismarine-shader"
-
+default = true

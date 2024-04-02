@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "574123c23ecabf3cfc80f20fddef3474ddea134b7c3a76d9601486bf40f69dfc"
+hash = "f983d09cf3670f2b7b0513ffe7a2b92a7f376de29009222af5330170763675ca"
 metafile = true
 
 [[files]]
@@ -371,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "93ab5cc883afdea0d637ff6222e440656cc075d7a93424840b37588ad1ae46a9"
+hash = "84c0488c1a1aae759c20bfcc3a6ea2a5379c777c414b4c8815f1cf97b78aa11e"
 metafile = true
 
 [[files]]
@@ -525,7 +525,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "4d559f3d538002b43ffd16c3b2881156f30fb8477e4e97301d027ae31197fb86"
+hash = "664a562fd72795ad0599175e22c9925c66a8c8d812afac451d4ec18080efd112"
 metafile = true
 
 [[files]]
@@ -560,7 +560,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "e27afc5a24a40a44ce9167c7f81c0d5d29782e9f2f25e329b5a6b6027a91f8ec"
+hash = "86957e0a88ab2a99399edd5d2ae7c3398b793fc75845c892838b1b8cc9ac8b09"
 metafile = true
 
 [[files]]
@@ -595,7 +595,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
-hash = "5c14680577c4f8b06c74b79b63505d82314c40c85bc489023e79fe70127965bf"
+hash = "59e4af7c0ab0872e574a0864473d355a87db7192e37776eec2ab35493f8477cc"
 metafile = true
 
 [[files]]
@@ -685,7 +685,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "8177a47aff4e87511946b64ed2e52454a13d749e0df75ecbdcaef40912b6b497"
+hash = "f5d32a51c64d7274a8c7a0fc6b928db246afe96a6fadc0efa2dba52538e3e054"
 metafile = true
 
 [[files]]
@@ -810,7 +810,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b5a82db59ce3476a0a5476b894365c8de61de65825e0c0c680416724359f629b"
+hash = "e843a74503863e7ce8974473307194c9be07dadafb559aa144f355d94cf8715b"
 metafile = true
 
 [[files]]
@@ -840,7 +840,7 @@ metafile = true
 
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
-hash = "2f0128bf1c12a809cfdf2c9e7fe86b4f4e7f03213e30db0450ed008442d57ff2"
+hash = "d97dd784eecd25410d83f4692814fa3105b159e4d262bae8c0442ad7654a24a2"
 metafile = true
 
 [[files]]
@@ -875,7 +875,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "f44c2e138b41270813fc1a1f1516ef44018f6ccfe83828deab77a196f746f5ae"
+hash = "993380cf705a99319f426d7c43f92ef6076adf2bfdbcd53a065b7d6dea4a565c"
 metafile = true
 
 [[files]]
@@ -925,7 +925,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "4461d2eb73a6b92c34c931460fcc3d5784ebc19e2f4fe03d4330decda28524df"
+hash = "c1020974260aa15c61abac3e852644f29001f8411b38ef6cf428c4ffa6907dc8"
 metafile = true
 
 [[files]]
@@ -994,7 +994,7 @@ metafile = true
 
 [[files]]
 file = "mods/soundsbegone.pw.toml"
-hash = "a8254b73d33d9b8b1e01b63161a6df8d8f83317611bae7d8add4697b27a089e4"
+hash = "df5d1a2835ae4c8a38e061d255c9e2a4f3ae04d28482421e5974ed69b195ce22"
 metafile = true
 
 [[files]]
@@ -1109,7 +1109,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "1e119e73797243a2f32ef37955c3e5016c184444f2febeb5420802667636ac4b"
+hash = "0e81a7e3403e4f9ab46b8f124e4790b6633d133cd28cb9987665690598cf486a"
 metafile = true
 
 [[files]]
@@ -2519,7 +2519,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "68b79902d98bc38e4705b621dcc54321e35742f696b462070d457cf7156d7921"
+hash = "67b9869a6115164afaa3747142a4a971a09789b6d89d2451888ab31d7ab5bfb8"
 metafile = true
 
 [[files]]
@@ -2539,12 +2539,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/prismarine.pw.toml"
-hash = "2996f62212e0a368149831bd6a59ef3115a5506b520340baae0fa0ce2c602475"
+hash = "ed653530e8805a2ea3ccfe846388890ba936e0096907a247bd8b88b9a57ccaff"
 metafile = true
 
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "1f2ec0bcd3a5e8e5a4070b141654039f726812ae0a76acf2b6b5e309da24dc0e"
+hash = "d1591fa168a7e075122ab354fe31000866ec7bbc55991d267674445cd1c4e237"
 metafile = true
 
 [[files]]
