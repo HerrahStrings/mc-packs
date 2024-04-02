@@ -925,6 +925,10 @@ file = "mods/Origins-1.20.1-1.10.0.jar"
 hash = "01675e2b3732782f5bfbc08a211f739c8123b269bb9f40d36ac56d9fbc90ae3d"
 
 [[files]]
+file = "mods/PresenceFootsteps-1.10.0-beta.0.7+4a6ab4e.jar"
+hash = "9a841fc49a9f22e3575977368d561ec851221512099a154845c549cce371db8b"
+
+[[files]]
 file = "mods/altorigingui.pw.toml"
 hash = "9c5d0f1adf081043b74cd306ba4dee43182c837c06fd35619cf676ee838e44fd"
 metafile = true
@@ -1340,11 +1344,6 @@ metafile = true
 [[files]]
 file = "mods/portable-crafting.pw.toml"
 hash = "a70c806bb9940bbc664982b89b4562aceadfa654e293a9ba62b14d4e57b6385d"
-metafile = true
-
-[[files]]
-file = "mods/presence-footsteps.pw.toml"
-hash = "938b135f37da76c099b14ba0f381a8515a0a28de62445caff9b2de94737e8894"
 metafile = true
 
 [[files]]
