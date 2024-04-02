@@ -533,11 +533,6 @@ hash = "ce46478d7297c220e75085fc756382a6eff91796ffffd3e217448e32c31cd155"
 metafile = true
 
 [[files]]
-file = "mods/effective.pw.toml"
-hash = "192d5837406f350de1551233735b6de7deb374669585d8759b554edfb4f72c05"
-metafile = true
-
-[[files]]
 file = "mods/emi.pw.toml"
 hash = "86957e0a88ab2a99399edd5d2ae7c3398b793fc75845c892838b1b8cc9ac8b09"
 metafile = true
@@ -894,7 +889,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "c1020974260aa15c61abac3e852644f29001f8411b38ef6cf428c4ffa6907dc8"
+hash = "5c32754581f5be9dceca7be3e2d5d6dc9fb35406c87449b46e69e2bb7afc9755"
 metafile = true
 
 [[files]]
