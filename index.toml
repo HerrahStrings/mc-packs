@@ -1367,7 +1367,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-fwaystones.pw.toml"
-hash = "d80898c2247f8a6eb153612d5e8597f791acdc73da0cd6910b35390096126a87"
+hash = "d91736c0ec1636dafe3d8cab0ab162c1bc8cf6b2a77a4e5b4a89c8fc201fc0ed"
 metafile = true
 
 [[files]]
@@ -1462,7 +1462,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
+hash = "2cf2d6c7683cbaa8d4d91374d5a92e6166176aefe5e0d7a0a2714c9321f8add0"
 metafile = true
 
 [[files]]
@@ -1620,7 +1620,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "0c4c20d601b15dbc85c275732d9efe9369597503c7d6caa9a7fee217f67073e7"
+hash = "9912c3485adbc87f85505e519287518bf4b5b72a941008070a0e6ddc18c40fbf"
 metafile = true
 
 [[files]]
@@ -1863,8 +1863,9 @@ hash = "993380cf705a99319f426d7c43f92ef6076adf2bfdbcd53a065b7d6dea4a565c"
 metafile = true
 
 [[files]]
-file = "mods/pettable-1.3.2.jar"
-hash = "8f5ae98a58150a972628f555493ef00b1e08ad958b36d117417d3ae27fa86019"
+file = "mods/pettable.pw.toml"
+hash = "842e3a047fa5cdc5992d68ff2d1cb378d07dad8fa90328b38cd22802ec120467"
+metafile = true
 
 [[files]]
 file = "mods/picohud.pw.toml"
@@ -1938,7 +1939,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "4fac1756349c0f723621d5c5c1993e0c2b094b3fdff1bcb5006b7f43d803288c"
+hash = "ed3cf45b08dcd6ba3259a7adcc1940fbccfbf4ade1da616d3c4244f17c7f74b2"
 metafile = true
 
 [[files]]
