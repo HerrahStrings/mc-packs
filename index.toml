@@ -1362,7 +1362,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "23fdaae1b77f170941c271fda99fb24e72f6f362b76b484c1cab6475c342d55b"
+hash = "17bb39bffcd3e2216cb058dd0fea64f0c04a190eca26e571637a5314c72dfccc"
 metafile = true
 
 [[files]]
@@ -1526,7 +1526,7 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "0b4080241fd7fd10b53f79cd7a6e871b606d06a5df402ba9a259188946657a32"
+hash = "ccdd24b949ad8647f0963333614c46544cb7fa8d76deb3d6ab9887b680d03506"
 metafile = true
 
 [[files]]
@@ -1560,7 +1560,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "abcc2d09c4f837c7bb74fa84f802e4a31dd70d4a7ad73a3ea7eee543ffa23859"
+hash = "ecbe7125b57e5c2990a7aa81f22adf687b298f748e5734a47ab216aded67851e"
 metafile = true
 
 [[files]]
@@ -1660,7 +1660,7 @@ metafile = true
 
 [[files]]
 file = "mods/heracles.pw.toml"
-hash = "43cc8b1e233d9ef4f957b41efc154a61dc3f689b954f14c06059d5118c63269e"
+hash = "e9272674cbc16be7f504e6581eb430a159f49055da42946e83350b4f87c4f78a"
 metafile = true
 
 [[files]]
@@ -1675,7 +1675,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
+hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
 metafile = true
 
 [[files]]
@@ -3557,7 +3557,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "a3428a3954ff0029d90c7184047d81c7f2091ac679e500aace22290c32010472"
+hash = "d1591fa168a7e075122ab354fe31000866ec7bbc55991d267674445cd1c4e237"
 metafile = true
 
 [[files]]
