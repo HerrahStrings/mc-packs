@@ -1119,12 +1119,12 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "76117558b32e4af33ca6faa921d7438aafec6aed532507745dc323b0fef819df"
+hash = "17bb39bffcd3e2216cb058dd0fea64f0c04a190eca26e571637a5314c72dfccc"
 metafile = true
 
 [[files]]
 file = "mods/antique-fwaystones.pw.toml"
-hash = "d80898c2247f8a6eb153612d5e8597f791acdc73da0cd6910b35390096126a87"
+hash = "d91736c0ec1636dafe3d8cab0ab162c1bc8cf6b2a77a4e5b4a89c8fc201fc0ed"
 metafile = true
 
 [[files]]
@@ -1273,7 +1273,7 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "ff039f270f97ada2f1c6a7db83fdb38aa2fb35d0fd5596fec7b3c9382f1ea2d1"
+hash = "ccdd24b949ad8647f0963333614c46544cb7fa8d76deb3d6ab9887b680d03506"
 metafile = true
 
 [[files]]
@@ -1307,12 +1307,12 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "4fdb3fed87f0b60a09bd5ad1a0c3007ab0ea9a8b8508af10bc1c7a750c85f237"
+hash = "ecbe7125b57e5c2990a7aa81f22adf687b298f748e5734a47ab216aded67851e"
 metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "cc7100eee64f1e580cfbf55002240cc3a5d2298db69ed864a0c4712c886dbce6"
+hash = "515401aa2bd4394d05d410a306d1890a3094c6121e1861c48e6a45f05bd7f01b"
 metafile = true
 
 [[files]]
@@ -1342,7 +1342,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
-hash = "eb4ad3d0bf47df52865312c343409c126379977f6036fd73cf6bf8d92952d67b"
+hash = "e92a6977724b5c8a841140dd5b368cc253f6b4049c22249eed98b86a39803e01"
 metafile = true
 
 [[files]]
@@ -1402,7 +1402,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "dff520bc4934ac3bf7fa1b0634c25a8d3b150117d20860f2d13b2d88664c52f1"
+hash = "01e047ce12403a657fc6669ff521a0d43cdc849aaccd217b7a055c58197cea99"
 metafile = true
 
 [[files]]
@@ -1422,7 +1422,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b411b04e1dace15c7fc1465bb161c8e621750b1577282e0918f956212a57e864"
+hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
 metafile = true
 
 [[files]]
@@ -1537,7 +1537,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "1ddc6a247e23e9cb6cafa89d6befd01dd35e36f1347c593d53eccf7f893b942a"
+hash = "160ab5c829c0af5fe32eaf637f13f953daee5eda164ca72833a8cee572e62e89"
 metafile = true
 
 [[files]]
@@ -1677,7 +1677,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "9da00669ae9e498595ef5fbca0b6203b87fd7c4e7305eedc5a8c67df934d1f64"
+hash = "91f667412b617ba6e416ce5f7a3cb9d1805f9091e3de8998419ed81f158fc9f2"
 metafile = true
 
 [[files]]
@@ -1726,7 +1726,7 @@ metafile = true
 
 [[files]]
 file = "mods/soundsbegone.pw.toml"
-hash = "c199e779569d6d33da411991954ada00a809d77ea8a9dba0baf371ab59ff642a"
+hash = "7be4dfc3ec1c3e1e72bf2f3aa55bdc9fb1c71034b2f21210a4bc559961783695"
 metafile = true
 
 [[files]]
@@ -1821,7 +1821,7 @@ metafile = true
 
 [[files]]
 file = "mods/trinkets.pw.toml"
-hash = "b2e02d1210f025b905299bfc88f895058640158343322641aca2c4875622c992"
+hash = "07619668821f2aad9dbd40084ad80f25595d8715a9ef204a4a9629225729a7d9"
 metafile = true
 
 [[files]]
@@ -1849,12 +1849,12 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "2485e05d5af6d8a4143ecea14f6a7f0af39c8b46d2f6f333da86a65d9e79cf36"
+hash = "91978f4b1043fdb967540467524a28878f519d1ca3324ab3ea8c7adafe8fbbf2"
 metafile = true
 
 [[files]]
 file = "mods/yigd.pw.toml"
-hash = "2747bdcecb68ac10a8af7f86bc38f09c4ed6959b7396834c241ebdab7d046332"
+hash = "6433aa1337792bf2e812b76acf2f92e1a8113287d1978e3ca89498783e672f79"
 metafile = true
 
 [[files]]
@@ -1879,7 +1879,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
-hash = "bf6e15464cc97754591cb7265ac9402085813c06917f76d99cd79abc61ae5181"
+hash = "13daa687a4ba568dc869e6275969995380016fb08a968673e2a94b33383fa5a7"
 metafile = true
 
 [[files]]
@@ -3140,7 +3140,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "a3428a3954ff0029d90c7184047d81c7f2091ac679e500aace22290c32010472"
+hash = "d1591fa168a7e075122ab354fe31000866ec7bbc55991d267674445cd1c4e237"
 metafile = true
 
 [[files]]
