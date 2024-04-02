@@ -1341,6 +1341,10 @@ file = "mods/Origins-1.20.1-1.10.0.jar"
 hash = "01675e2b3732782f5bfbc08a211f739c8123b269bb9f40d36ac56d9fbc90ae3d"
 
 [[files]]
+file = "mods/PresenceFootsteps-1.10.0-beta.0.7+4a6ab4e.jar"
+hash = "9a841fc49a9f22e3575977368d561ec851221512099a154845c549cce371db8b"
+
+[[files]]
 file = "mods/aileron.pw.toml"
 hash = "92c0c8ce733ad75ae5a207b20786dd7c712d90e9d0d5a390a5cbc00bf1cdf3bb"
 metafile = true
@@ -1880,11 +1884,6 @@ metafile = true
 [[files]]
 file = "mods/portable-crafting.pw.toml"
 hash = "a70c806bb9940bbc664982b89b4562aceadfa654e293a9ba62b14d4e57b6385d"
-metafile = true
-
-[[files]]
-file = "mods/presence-footsteps.pw.toml"
-hash = "938b135f37da76c099b14ba0f381a8515a0a28de62445caff9b2de94737e8894"
 metafile = true
 
 [[files]]
