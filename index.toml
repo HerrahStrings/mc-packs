@@ -305,8 +305,8 @@ file = "credits.txt"
 hash = "7c68180a8e6416c3d5cdd8c00199c23123df202f4f401fca3d8d6518c4d96819"
 
 [[files]]
-file = "data/seasons_compat_warn.dat"
-hash = "e4acf1365f8aba457ccde7923fd8b75e370e5f41da4673fb9cf9e0acabb442e2"
+file = "data/seasons_compat_warn.nbt"
+hash = "f11c375b883d031f02ab50242670ecddf252f392a5380a194958b4aba2904a63"
 
 [[files]]
 file = "mods/Couplings-1.9.1+1.19.jar"
@@ -551,11 +551,6 @@ metafile = true
 [[files]]
 file = "mods/ecotones.pw.toml"
 hash = "ce46478d7297c220e75085fc756382a6eff91796ffffd3e217448e32c31cd155"
-metafile = true
-
-[[files]]
-file = "mods/effective.pw.toml"
-hash = "192d5837406f350de1551233735b6de7deb374669585d8759b554edfb4f72c05"
 metafile = true
 
 [[files]]
@@ -925,7 +920,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "c1020974260aa15c61abac3e852644f29001f8411b38ef6cf428c4ffa6907dc8"
+hash = "5c32754581f5be9dceca7be3e2d5d6dc9fb35406c87449b46e69e2bb7afc9755"
 metafile = true
 
 [[files]]
