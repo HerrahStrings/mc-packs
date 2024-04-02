@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "574123c23ecabf3cfc80f20fddef3474ddea134b7c3a76d9601486bf40f69dfc"
+hash = "f983d09cf3670f2b7b0513ffe7a2b92a7f376de29009222af5330170763675ca"
 metafile = true
 
 [[files]]
@@ -574,7 +574,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
-hash = "5c14680577c4f8b06c74b79b63505d82314c40c85bc489023e79fe70127965bf"
+hash = "59e4af7c0ab0872e574a0864473d355a87db7192e37776eec2ab35493f8477cc"
 metafile = true
 
 [[files]]
