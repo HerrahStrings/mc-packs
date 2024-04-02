@@ -1069,8 +1069,8 @@ file = "credits.txt"
 hash = "7c68180a8e6416c3d5cdd8c00199c23123df202f4f401fca3d8d6518c4d96819"
 
 [[files]]
-file = "data/seasons_compat_warn.dat"
-hash = "e4acf1365f8aba457ccde7923fd8b75e370e5f41da4673fb9cf9e0acabb442e2"
+file = "data/seasons_compat_warn.nbt"
+hash = "f11c375b883d031f02ab50242670ecddf252f392a5380a194958b4aba2904a63"
 
 [[files]]
 file = "mods/Apoli-1.20.1-2.9.0+bc.23.3.jar"
@@ -1602,7 +1602,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "f44c2e138b41270813fc1a1f1516ef44018f6ccfe83828deab77a196f746f5ae"
+hash = "993380cf705a99319f426d7c43f92ef6076adf2bfdbcd53a065b7d6dea4a565c"
 metafile = true
 
 [[files]]
@@ -3114,7 +3114,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "68b79902d98bc38e4705b621dcc54321e35742f696b462070d457cf7156d7921"
+hash = "67b9869a6115164afaa3747142a4a971a09789b6d89d2451888ab31d7ab5bfb8"
 metafile = true
 
 [[files]]
@@ -3134,7 +3134,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/prismarine.pw.toml"
-hash = "2996f62212e0a368149831bd6a59ef3115a5506b520340baae0fa0ce2c602475"
+hash = "ed653530e8805a2ea3ccfe846388890ba936e0096907a247bd8b88b9a57ccaff"
 metafile = true
 
 [[files]]
