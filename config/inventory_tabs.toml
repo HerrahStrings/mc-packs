@@ -40,30 +40,35 @@ allowScreensByDefault = true
 	"fwaystones:waystone" = false
 	"fwaystones:pocket_wormhole" = false
 	"fwaystones:abyss" = false
+	"yttr:rafting" = false
+	"yttr:magtank" = false
+	"yttr:dsu" = false
 
-# 
+#
 # -------------------------------
-# 
+#
 # Manually set the left bound offset for a given screen
 # Positive values expand the left boundary, allowing more tabs to be drawn
 # null means the player inventory
-# 
+#
 [leftBoundOffsetOverride]
 	null = 0
+	"create:toolbox" = -20
+	"yttr:suit_station" = -24
 
-# 
+#
 # -------------------------------
-# 
+#
 # Manually set the right bound offset for a given screen
 # Positive values expand the right boundary, allowing more tabs to be drawn
 # null means the player inventory
-# 
+#
 [rightBoundOffsetOverride]
 	null = 0
 
-# 
+#
 # -------------------------------
-# 
+#
 # Manually set the Tab Provider for a given block or tag
 # | -Provider ID-        | -Tab Behaviour-                            | -Default Blocks Added-
 # | block_shulker_box    | Checks shulker blocked state               | Adds all ShulkerBoxBlocks
@@ -73,14 +78,22 @@ allowScreensByDefault = true
 # | block_simple_storage | Sorted alongside other chest-like tabs     | Adds all BarrelBlocks
 # | block_simple         | No special logic                           | Adds all BlockWithEntities, except 25 known-bad vanilla block classes - this adds lots of invalid modded blocks!
 # | ""                   | No tab at all!                             | Use this to disable bad block tabs in your pack
-# 
+#
 [blockProviderOverrides]
 	"minecraft:fletching_table" = ""
 	"aurorasdeco:*" = ""
 	"#aurorasdeco:shelves" = "inventory_tabs:block_simple_storage"
 	"aurorasdeco:copper_hopper" = "inventory_tabs:block_simple"
+	"botania:*" = ""
 	"bovinesandbuttercups:*" = ""
 	"campanion:*" = ""
+	"create:*" = ""
+	"#create:toolboxes" = "inventory_tabs:block_simple_storage"
+	"#create:valve_handles" = ""
+	"create:stockpile_switch" = "inventory_tabs:block_simple"
+	"create:display_link" = "inventory_tabs:block_simple"
+	"create:schematicannon" = "inventory_tabs:block_simple"
+	"create:schematic_table" = "inventory_tabs:block_simple"
 	"dramaticdoors:*" = ""
 	"farmersdelight:*_cabinet" = "inventory_tabs:block_simple_storage"
 	"farmersdelight:basket" = "inventory_tabs:block_simple_storage"
@@ -97,34 +110,46 @@ allowScreensByDefault = true
 	"sandwichable:sandwich" = ""
 	"sandwichable:sandwich_table" = ""
 	"sandwichable:toaster" = ""
+	"sliceanddice:*" = ""
 	"yigd:grave" = ""
+	"yttr:*" = ""
+	"yttr:can_filler" = "inventory_tabs:block_simple"
+	"yttr:centrifuge" = "inventory_tabs:block_simple"
+	"yttr:dopper" = "inventory_tabs:block_simple"
+	"yttr:flopper" = "inventory_tabs:block_simple"
+	"yttr:levitation_chamber" = "inventory_tabs:block_simple"
+	"yttr:dyed_project_table" = "inventory_tabs:block_simple"
+	"yttr:suit_station" = "inventory_tabs:block_simple"
+	"yttr:ssd" = "inventory_tabs:block_simple_storage"
 
-# 
+#
 # -------------------------------
-# 
+#
 # Manually set the Tab Provider for a given entity or tag
 # | -Provider ID- | -Tab Behaviour-                          | -Default Entities Added-
 # | entity_sneak  | Uses sneak-interact, checks tamed/riding | Adds all RideableOpenableInventories
 # | entity_simple | Checks player isn't riding the entity    | Adds all StorageMinecartEntities
 # | ""            | No tab at all!                           | Use this to disable bad entity tabs in your pack
-# 
+#
 [entityProviderOverrides]
 	"minecraft:chest_minecart" = "inventory_tabs:entity_simple"
 	"lovely_snails:snail" = "inventory_tabs:entity_sneak"
 
-# 
+#
 # -------------------------------
-# 
+#
 # Manually set the Tab Provider for a given item or tag
 # | -Provider ID- | -Tab Behaviour-                      | -Default Items Added-
 # | item_unique   | Only one tab can exist per item type | Adds nothing
 # | item_simple   | No special logic                     | Adds nothing
 # | ""            | No tab at all!                       | Use this to disable bad item tabs in your pack
-# 
+#
 [itemProviderOverrides]
 	"aurorasdeco:painter_palette" = "inventory_tabs:item_sneak"
 	"fwaystones:abyss_watcher" = ""
 	"fwaystones:pocket_wormhole" = ""
+	"botania:bauble_box" = "inventory_tabs:item_simple"
+	"botania:flower_bag" = "inventory_tabs:item_simple"
 
 # 
 # -------------------------------
