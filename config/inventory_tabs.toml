@@ -1,68 +1,148 @@
-# Whether to allow interacting with entities through blocks.
-# More seamless, but may be considered cheating by the server.
+# How many ticks to wait before moving to the next tab when the keybind is held
+# Used to smooth out the visual difference between instant screens (like the player inventory) and ping-dependent screens
+# Can be lowered for shenanigans
+# default: 3
+holdTabCooldown = 3
+# Whether to allow interacting with entities through blocks
+# More seamless, but may be considered cheating by the server
 # default: true
 ignoreWalls = true
 # Whether to rotate the player towards the clicked tab
-# Less seamless, but trips anti-cheat less often.
+# Less seamless, but trips anti-cheat less often
 # default: false
 rotatePlayer = false
-# Remove the 1 unit padding in container screens that makes single chest screens slightly taller
-# If a modded container has item stacks offset 1 unit below where they should, turn this off.
+# Remove the 1 unit padding in container screens them slightly taller and offset from other screens
+# If you're seeing stacks in the wrong places (offset up by 1 unit) on modded containers, turn this off
 # default: true
-consistentChests = true
-# Strip nonessential features from 6-row container screens to fit them onto minimum-ratio viewports.
+consistentContainers = true
+# Strip titles from 6-row container screens to fit them onto minimum-ratio viewports
 # default: false
-compactChests = false
+compactLargeContainers = false
+# Emits helpful information for setting up this config when joining a world
+# Logs all registered screen handler IDs for use in screen overrides
+# Logs all registry tab provider contents (blocks etc) to help find bad tabs
+# default: false
+configLogging = true
+# Whether to log vanilla tab provider contents
+# For development purposes, not modpack configuration
+# default: false
+configLoggingVanilla = false
+# Whether to show tabs on screens that aren't specified below
+# default: true
+allowScreensByDefault = true
 
-[tabDisplayFilter]
-	# Whether to allow or deny tab display on screens that don't match config or code filters.
-	# options: ALLOW, DENY
-	# default: ALLOW
-	fallback = "ALLOW"
-	# Screen Type IDs to deny rendering tabs on.
-	# Screens allowed through code take precedent over this, e.g. HorseScreen.
-	deny = [
-		"fwaystones:waystone",
-		"fwaystones:abyss",
-		"fwaystones:pocket_wormhole",
-	]
-	# Screen Type IDs to allow rendering tabs on.
-	# Screens denied through code take precedent over this, e.g. CreativeInventoryScreen.
-	allow = []
 # 
-# Allows forcing blocks or block tags to be handled by a specific tab provider. '' to disable.
+# -------------------------------
+# 
+# Manually set whether tabs should be shown on a given screen
+# 
+[screenOverrides]
+	"fwaystones:waystone" = false
+	"fwaystones:pocket_wormhole" = false
+	"fwaystones:abyss" = false
+
+# 
+# -------------------------------
+# 
+# Manually set the left bound offset for a given screen
+# Positive values expand the left boundary, allowing more tabs to be drawn
+# null means the player inventory
+# 
+[leftBoundOffsetOverride]
+	null = 0
+
+# 
+# -------------------------------
+# 
+# Manually set the right bound offset for a given screen
+# Positive values expand the right boundary, allowing more tabs to be drawn
+# null means the player inventory
+# 
+[rightBoundOffsetOverride]
+	null = 0
+
+# 
+# -------------------------------
+# 
+# Manually set the Tab Provider for a given block or tag
+# | -Provider ID-        | -Tab Behaviour-                            | -Default Blocks Added-
+# | block_shulker_box    | Checks shulker blocked state               | Adds all ShulkerBoxBlocks
+# | block_ender_chest    | Unique, checks chest blocked state         | Adds all EnderChestBlocks
+# | block_chest          | L/R Multiblock, checks chest blocked state | Adds all AbstractChestBlocks
+# | block_unique         | Only one tab can exist per block type      | Adds all CraftingTableBlocks, AnvilBlocks, CartographyTableBlocks, GrindstoneBlocks, LoomBlocks, and StonecutterBlocks
+# | block_simple_storage | Sorted alongside other chest-like tabs     | Adds all BarrelBlocks
+# | block_simple         | No special logic                           | Adds all BlockWithEntities, except 25 known-bad vanilla block classes - this adds lots of invalid modded blocks!
+# | ""                   | No tab at all!                             | Use this to disable bad block tabs in your pack
+# 
 [blockProviderOverrides]
 	"minecraft:fletching_table" = ""
+	"aurorasdeco:*" = ""
+	"#aurorasdeco:shelves" = "inventory_tabs:block_simple_storage"
+	"aurorasdeco:copper_hopper" = "inventory_tabs:block_simple"
+	"bovinesandbuttercups:*" = ""
+	"campanion:*" = ""
+	"dramaticdoors:*" = ""
+	"farmersdelight:*_cabinet" = "inventory_tabs:block_simple_storage"
+	"farmersdelight:basket" = "inventory_tabs:block_simple_storage"
+	"farmersdelight:cooking_pot" = "inventory_tabs:block_simple"
+	"farmersdelight:cutting_board" = ""
+	"farmersdelight:skillet" = ""
+	"farmersdelight:stove" = ""
 	"#fwaystones:waystones" = ""
+	"just_end_anchor:end_anchor" = ""
+	"#sandwichable:basins" = ""
+	"sandwichable:bottle_crate" = "inventory_tabs:block_simple_storage"
+	"sandwichable:desalinator" = "inventory_tabs:block_simple"
+	"sandwichable:pickle_jar" = ""
+	"sandwichable:sandwich" = ""
+	"sandwichable:sandwich_table" = ""
+	"sandwichable:toaster" = ""
+	"yigd:grave" = ""
+
 # 
-# Allows forcing entities or entity tags to be handled by a specific tab provider. '' to disable.
+# -------------------------------
+# 
+# Manually set the Tab Provider for a given entity or tag
+# | -Provider ID- | -Tab Behaviour-                          | -Default Entities Added-
+# | entity_sneak  | Uses sneak-interact, checks tamed/riding | Adds all RideableOpenableInventories
+# | entity_simple | Checks player isn't riding the entity    | Adds all StorageMinecartEntities
+# | ""            | No tab at all!                           | Use this to disable bad entity tabs in your pack
+# 
 [entityProviderOverrides]
 	"minecraft:chest_minecart" = "inventory_tabs:entity_simple"
+	"lovely_snails:snail" = "inventory_tabs:entity_sneak"
+
 # 
-# Allows forcing items or item tags to be handled by a specific tab provider. Use NONE to disable.
+# -------------------------------
+# 
+# Manually set the Tab Provider for a given item or tag
+# | -Provider ID- | -Tab Behaviour-                      | -Default Items Added-
+# | item_unique   | Only one tab can exist per item type | Adds nothing
+# | item_simple   | No special logic                     | Adds nothing
+# | ""            | No tab at all!                       | Use this to disable bad item tabs in your pack
+# 
 [itemProviderOverrides]
-	"minecraft:dirt" = ""
-# Whether to enable the default registry-matching logic for each tab provider.
-# When default logic is disabled, a tab provider will only be used if overridden below!
-# Simple Block: Blocks with block entities that can be interacted with to open a screen.
-# -Default logic: All BlockEntityProviders that don't match a list of known-bad types are added.
-# Chest Block: Must have facing and single/left/right properties, and can be blocked above.
-# -Default logic: All AbstractChestBlocks are added.
-# Unique Block: Blocks that open the same screen, regardless of where they are.
-# -Default logic: Blocks from a list of known-good vanilla types are added.
-# Simple Entity: Entity that can be interacted with to open a screen.
-# -Default logic: Nothing is added.
-# Sneak Entity: Entity that can be interacted with while sneaking to open a screen.
-# -Default logic: Nothing is added.
+	"aurorasdeco:painter_palette" = "inventory_tabs:item_sneak"
+	"fwaystones:abyss_watcher" = ""
+	"fwaystones:pocket_wormhole" = ""
+
+# 
+# -------------------------------
+# 
+# Enable or disable the default added logic for each tab provider (see above)
+# Non-registry Tab Providers like player_inventory and vehicle_inventory can't be disabled here
+# 
 [registryProviderDefaults]
 	"inventory_tabs:block_shulker_box" = true
 	"inventory_tabs:block_ender_chest" = true
 	"inventory_tabs:block_chest" = true
-	"inventory_tabs:block_simple" = true
 	"inventory_tabs:block_unique" = true
+	"inventory_tabs:block_simple_storage" = true
+	"inventory_tabs:block_simple" = true
 	"inventory_tabs:entity_sneak" = true
 	"inventory_tabs:entity_simple" = true
 	"inventory_tabs:item_unique" = true
+	"inventory_tabs:item_sneak" = true
 	"inventory_tabs:item_simple" = true
 	"inventory_tabs:player_inventory" = true
 	"inventory_tabs:vehicle_inventory" = true

@@ -17,10 +17,6 @@ file = "config/aileron.json"
 hash = "ef5d54ad5552076138b7ecaca713917fdb7069d8d6199d6a9dc5fdfef614c10e"
 
 [[files]]
-file = "config/antiqueatlas.json5"
-hash = "fb4706f80eb8372ab2460e2d68d8c040e45aad3a581bd25be0d9010c7468a04d"
-
-[[files]]
 file = "config/apathy/boss.cfg"
 hash = "6d01925c16f5913cb67d2d88a27886d56121c83ab08ac1e09d7e5114a85b59f0"
 
@@ -942,7 +938,7 @@ hash = "4435ab1d6a324ad59d5357cd287982c03c8e618db506f50b48d3e7e59037462c"
 
 [[files]]
 file = "config/inventory_tabs.toml"
-hash = "09e3a84e69838f0f9b3ef7a0ccaa1f80a5d0fd46f28ecd30a6488ecc01d6f388"
+hash = "78754d7fe4c06e408801b3a16b313d148533a8abc783e46b6bb97e58e3e44fee"
 
 [[files]]
 file = "config/inventorysorter/config.json5"
