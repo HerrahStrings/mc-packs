@@ -1690,8 +1690,8 @@ hash = "31b3bcbde9677f9fc1006aab482e6f43b7552146359cc4ef363e30a237d1d12b"
 metafile = true
 
 [[files]]
-file = "mods/sandwichable-1.3.1.a-farmersdelight+1.20.1.jar"
-hash = "19ac7033ec95d6df0b242ed66c4f881bde1d8f6d9328f8da75154a883b0be865"
+file = "mods/sandwichable-1.3.1.b-farmersdelight+1.20.1.jar"
+hash = "8af475d3d490d7b61eb13547ff86b52b32e0043b9c4c4cc6d25ab952036575ce"
 
 [[files]]
 file = "mods/simple-durability-tooltip.pw.toml"
