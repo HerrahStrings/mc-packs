@@ -89,6 +89,10 @@ file = "config/fabrication/yeet_recipes.ini"
 hash = "3d0f2a0e965fe090a131fefc78e934c004fe5c91cdb5fa082d5b9f47b2934b0a"
 
 [[files]]
+file = "config/fallingleaves.json"
+hash = "fcd29ef763f0cf68806ab53d2d7b4d9efd9e473e349d117f65133190c03b562b"
+
+[[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "7896313f20004224eef0280e2c277eab0538d6c5448b390781ef5d2022a759c4"
 
@@ -143,6 +147,10 @@ hash = "b64fa7ee465d964b662f291dad78a8c91a252854581ae2584f23ad8bdc010970"
 [[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "9ede5f3c262d74cf2ec694d8c228f1fd8f3b363c13ba5695ea7eea2db6b63b0b"
+
+[[files]]
+file = "config/lambdynlights.toml"
+hash = "f331e0ec5f5c7a2cf3d161031379072eb8850ebdec2a29e0ec5efb9ef4c60218"
 
 [[files]]
 file = "config/modmenu.json"
