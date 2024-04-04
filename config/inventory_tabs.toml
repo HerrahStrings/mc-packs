@@ -125,6 +125,7 @@ allowScreensByDefault = true
 	"aurorasdeco:painter_palette" = "inventory_tabs:item_sneak"
 	"fwaystones:abyss_watcher" = ""
 	"fwaystones:pocket_wormhole" = ""
+	"yttr:ammo_pack" = "inventory_tabs:item_sneak"
 
 # 
 # -------------------------------
