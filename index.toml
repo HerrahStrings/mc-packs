@@ -17,10 +17,6 @@ file = "config/aileron.json"
 hash = "ef5d54ad5552076138b7ecaca713917fdb7069d8d6199d6a9dc5fdfef614c10e"
 
 [[files]]
-file = "config/antiqueatlas.json5"
-hash = "fb4706f80eb8372ab2460e2d68d8c040e45aad3a581bd25be0d9010c7468a04d"
-
-[[files]]
 file = "config/apathy/boss.cfg"
 hash = "6d01925c16f5913cb67d2d88a27886d56121c83ab08ac1e09d7e5114a85b59f0"
 
