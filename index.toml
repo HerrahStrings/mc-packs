@@ -186,7 +186,7 @@ hash = "4435ab1d6a324ad59d5357cd287982c03c8e618db506f50b48d3e7e59037462c"
 
 [[files]]
 file = "config/inventory_tabs.toml"
-hash = "cfbece97294912b10d6022703c251e68ace23f09426226ce655f5623905b731e"
+hash = "27f9c80443fb9cafdc223fd64967b80138d33edc455b436b3158168506098b6d"
 
 [[files]]
 file = "config/inventorysorter/config.json5"
