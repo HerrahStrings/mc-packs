@@ -1362,7 +1362,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "17bb39bffcd3e2216cb058dd0fea64f0c04a190eca26e571637a5314c72dfccc"
+hash = "bd2ab4c0d8bd0b4d9ed194108578262303ec442864b51b5e3a1990555b043063"
 metafile = true
 
 [[files]]
@@ -1695,7 +1695,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tabs.pw.toml"
-hash = "cb64e45acfc927c97d804a59ab625a7b3333349a654aa27e16bc1d6a45d36d79"
+hash = "a1d845e1c18c0653951ba9ccd6e9eb8d106017761fb39e3a6ab90e5b0bc220e3"
 metafile = true
 
 [[files]]
@@ -1839,7 +1839,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "02ee44d056d0f9881b260b987a8651815c363f4f20f6f589eeb3df0f63006608"
+hash = "0b3a68ab8700e95288d2eec264ac188f0fc9fe1c7a3901c9dbc06ad207c90624"
 metafile = true
 
 [[files]]
@@ -1943,8 +1943,8 @@ hash = "31b3bcbde9677f9fc1006aab482e6f43b7552146359cc4ef363e30a237d1d12b"
 metafile = true
 
 [[files]]
-file = "mods/sandwichable-1.3.1.a-farmersdelight+1.20.1.jar"
-hash = "19ac7033ec95d6df0b242ed66c4f881bde1d8f6d9328f8da75154a883b0be865"
+file = "mods/sandwichable-1.3.1.b-farmersdelight+1.20.1.jar"
+hash = "8af475d3d490d7b61eb13547ff86b52b32e0043b9c4c4cc6d25ab952036575ce"
 
 [[files]]
 file = "mods/simple-durability-tooltip.pw.toml"
@@ -1983,7 +1983,7 @@ metafile = true
 
 [[files]]
 file = "mods/soundsbegone.pw.toml"
-hash = "7be4dfc3ec1c3e1e72bf2f3aa55bdc9fb1c71034b2f21210a4bc559961783695"
+hash = "a6e749640e41f01665033aba74ea4b8ad81186a8665e2080000a12451575db39"
 metafile = true
 
 [[files]]
