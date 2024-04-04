@@ -150,6 +150,7 @@ allowScreensByDefault = true
 	"fwaystones:pocket_wormhole" = ""
 	"botania:bauble_box" = "inventory_tabs:item_simple"
 	"botania:flower_bag" = "inventory_tabs:item_simple"
+	"yttr:ammo_pack" = "inventory_tabs:item_sneak"
 
 # 
 # -------------------------------
