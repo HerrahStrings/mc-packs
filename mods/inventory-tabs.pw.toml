@@ -1,13 +1,13 @@
 name = "Inventory Tabs"
-filename = "inventory-tabs-1.1.8+1.20.jar"
+filename = "inventory-tabs-1.2.0+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/VD1aynYU/versions/lMnVgGxn/inventory-tabs-1.1.8%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/VD1aynYU/versions/8tuNrxis/inventory-tabs-1.2.0%2B1.20.jar"
 hash-format = "sha1"
-hash = "745ba068c26419fd53f69d4f30db82baa285e67f"
+hash = "8506f4831264d71b0861af1031656b5eabbb3cea"
 
 [update]
 [update.modrinth]
 mod-id = "VD1aynYU"
-version = "lMnVgGxn"
+version = "8tuNrxis"
