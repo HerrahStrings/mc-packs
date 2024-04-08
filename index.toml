@@ -1089,10 +1089,6 @@ file = "mods/Origins-1.20.1-1.10.0.jar"
 hash = "01675e2b3732782f5bfbc08a211f739c8123b269bb9f40d36ac56d9fbc90ae3d"
 
 [[files]]
-file = "mods/PresenceFootsteps-1.10.0-beta.0.7+4a6ab4e.jar"
-hash = "9a841fc49a9f22e3575977368d561ec851221512099a154845c549cce371db8b"
-
-[[files]]
 file = "mods/aileron.pw.toml"
 hash = "92c0c8ce733ad75ae5a207b20786dd7c712d90e9d0d5a390a5cbc00bf1cdf3bb"
 metafile = true
@@ -1367,7 +1363,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "9912c3485adbc87f85505e519287518bf4b5b72a941008070a0e6ddc18c40fbf"
+hash = "eac1a56fa3de852de28a0fcad1410f1af63ecd360cfe92425b01807daecfa2ff"
 metafile = true
 
 [[files]]
@@ -1572,7 +1568,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "708c3992f04530d2366b570ad6503b97881d039f2d79530c861b8f276b2ec591"
+hash = "c60be719d5ede034bcc81d79fdec100b8d07c09a270ac01f571cf516840a263b"
 metafile = true
 
 [[files]]
@@ -1623,6 +1619,11 @@ metafile = true
 [[files]]
 file = "mods/portable-crafting.pw.toml"
 hash = "a70c806bb9940bbc664982b89b4562aceadfa654e293a9ba62b14d4e57b6385d"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "74058d27cf4f2eaa273b7e3e7068e573a196d12116d2290c9088cdb5895c3aa8"
 metafile = true
 
 [[files]]
