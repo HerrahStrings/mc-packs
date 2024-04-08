@@ -1129,7 +1129,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "9912c3485adbc87f85505e519287518bf4b5b72a941008070a0e6ddc18c40fbf"
+hash = "eac1a56fa3de852de28a0fcad1410f1af63ecd360cfe92425b01807daecfa2ff"
 metafile = true
 
 [[files]]
@@ -1189,7 +1189,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tabs.pw.toml"
-hash = "cb64e45acfc927c97d804a59ab625a7b3333349a654aa27e16bc1d6a45d36d79"
+hash = "9e388b2bae9ea1bd25ef9334beaa05821ea37424297dc1447e54d4d45dc31ee9"
 metafile = true
 
 [[files]]
@@ -1294,7 +1294,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "708c3992f04530d2366b570ad6503b97881d039f2d79530c861b8f276b2ec591"
+hash = "c60be719d5ede034bcc81d79fdec100b8d07c09a270ac01f571cf516840a263b"
 metafile = true
 
 [[files]]
@@ -1309,7 +1309,7 @@ metafile = true
 
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
-hash = "02ee44d056d0f9881b260b987a8651815c363f4f20f6f589eeb3df0f63006608"
+hash = "0b3a68ab8700e95288d2eec264ac188f0fc9fe1c7a3901c9dbc06ad207c90624"
 metafile = true
 
 [[files]]
@@ -1434,7 +1434,7 @@ metafile = true
 
 [[files]]
 file = "mods/soundsbegone.pw.toml"
-hash = "7be4dfc3ec1c3e1e72bf2f3aa55bdc9fb1c71034b2f21210a4bc559961783695"
+hash = "a6e749640e41f01665033aba74ea4b8ad81186a8665e2080000a12451575db39"
 metafile = true
 
 [[files]]
