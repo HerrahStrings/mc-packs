@@ -1115,7 +1115,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "bd2ab4c0d8bd0b4d9ed194108578262303ec442864b51b5e3a1990555b043063"
+hash = "404b5b5b0f1b53a8a807c2095fa6a8680cc6fa60ca689f0e34a1f02daf779aae"
 metafile = true
 
 [[files]]
@@ -1200,7 +1200,7 @@ metafile = true
 
 [[files]]
 file = "mods/chalk.pw.toml"
-hash = "bd2cab029b39f8a64e4f4b0d0b3c5b9bb6b6482e174af890be4f278cd502edc8"
+hash = "6813cfc18a8812f00b3f6a7c5d01a02828b109d8c394f2c1b01bd5960c241120"
 metafile = true
 
 [[files]]
@@ -1438,7 +1438,7 @@ metafile = true
 
 [[files]]
 file = "mods/inventory-tabs.pw.toml"
-hash = "a1d845e1c18c0653951ba9ccd6e9eb8d106017761fb39e3a6ab90e5b0bc220e3"
+hash = "9e388b2bae9ea1bd25ef9334beaa05821ea37424297dc1447e54d4d45dc31ee9"
 metafile = true
 
 [[files]]
