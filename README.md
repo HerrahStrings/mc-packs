@@ -149,7 +149,7 @@ If you experience arachnophobia or otherwise need to disable the spawning of a m
 
 If you'd like to play with a controller, install [MidnightControls](https://modrinth.com/mod/midnightcontrols) before playing.
 
-If you get lost without a map mod, try our [fork of Antique Atlas](https://github.com/sisby-folk/AntiqueAtlas/releases/tag/v8.0.2%2Bitemless) without items. Still required on both sides.
+If you get lost without a map mod, try [Antique Atlas 4](https://modrinth.com/mod/antique-atlas-4) - which we include in other editions.
 
 ## Full Modlist
 
