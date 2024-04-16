@@ -173,7 +173,7 @@ In addition to the below, Tinkerer's Quilt has support for the majority of optif
 | Relevant Mod                                                                       | Summary                                                                                                                                                                                                                                    |
 |------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Vanilla Tweaks](https://vanillatweaks.net/)                                       | Decaying tools, less obtrusive shields and fire, and minor texture changes.                                                                                                                                                                |
-| [Sodium](https://modrinth.com/mod/sodium)                                          | Client go fast.                                                                                                                                                                                                                            |
+| [Sodium](https://modrinth.com/mod/sodium)                                          | Modern-day holy grail of client performance mods.                                                                                                                                                                                          |
 | [Iris](https://modrinth.com/mod/iris)                                              | Allows using shaders like [Complementary](https://modrinth.com/shader/complementary-shaders-v4), [Prismarine](https://github.com/Septonious/Prismarine-Shader), and [Super Duper Vanilla](https://modrinth.com/shader/super-duper-vanilla) |
 | [Xali's Enchanted Books](https://modrinth.com/resourcepack/xalis-enchanted-books)  | Unique textures for enchanted books.                                                                                                                                                                                                       |
 | [Sully's Peeves](https://www.curseforge.com/minecraft/texture-packs/sullys-peeves) | Texture improvements for many everyday blocks and items.                                                                                                                                                                                   |
@@ -215,7 +215,7 @@ If you experience arachnophobia or otherwise need to disable the spawning of a m
 
 If you'd like to play with a controller, install [MidnightControls](https://modrinth.com/mod/midnightcontrols) before playing.
 
-If you get lost without a map mod, try our [fork of Antique Atlas](https://github.com/sisby-folk/AntiqueAtlas/releases/tag/v8.0.2%2Bitemless) without items. Still required on both sides.
+If you get lost without a map mod, try [Antique Atlas 4](https://modrinth.com/mod/antique-atlas-4) - which we include in other editions.
 
 ## Full Modlist
 
