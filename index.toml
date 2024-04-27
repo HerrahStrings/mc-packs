@@ -1115,12 +1115,12 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "299e9bb9446e7b10045c0848eba53edd8bdb64630805f24441d0af8c25579b18"
+hash = "8d47de6a378f312e752c0ddd444107608f58d0825f07a64476bb4c4b05512082"
 metafile = true
 
 [[files]]
 file = "mods/antique-fwaystones.pw.toml"
-hash = "d91736c0ec1636dafe3d8cab0ab162c1bc8cf6b2a77a4e5b4a89c8fc201fc0ed"
+hash = "186b5f646f0ceb851e6558b722d420a35adbf8625cb43ac8b1fce01f02d7dbc7"
 metafile = true
 
 [[files]]
@@ -1338,7 +1338,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
-hash = "e92a6977724b5c8a841140dd5b368cc253f6b4049c22249eed98b86a39803e01"
+hash = "a4f0a82e09bb2ad65e819ce3dc6333b67816aaefa152b4d92cdbe8e03685d177"
 metafile = true
 
 [[files]]
@@ -1673,7 +1673,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "91f667412b617ba6e416ce5f7a3cb9d1805f9091e3de8998419ed81f158fc9f2"
+hash = "c26c14e3f229f501ffb9b87214d311a5d94dbdbb875cf2a7271b5527edfc8a77"
 metafile = true
 
 [[files]]
@@ -1865,7 +1865,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
-hash = "58de55cfb9a33cb71eb7a50a55d6fdd9cc970fd866e603ab5373c9c3087a6d84"
+hash = "715036507f7d22a8749b80321bb11377d85e0f4b89d27c7461417af189513547"
 metafile = true
 
 [[files]]
