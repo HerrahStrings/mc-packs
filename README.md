@@ -147,7 +147,7 @@ If you intend to play without shaders on a powerful machine, we highly recommend
 
 If you experience arachnophobia or otherwise need to disable the spawning of a mob entirely, try [VanillaDisable](https://modrinth.com/mod/vanilla-disable).
 
-If you'd like to play with a controller, install [MidnightControls](https://modrinth.com/mod/midnightcontrols) before playing.
+If you'd like to play with a controller, install [Controlify](https://modrinth.com/mod/controlify) before playing.
 
 If you get lost without a map mod, try [Antique Atlas 4](https://modrinth.com/mod/antique-atlas-4) - which we include in other editions.
 
