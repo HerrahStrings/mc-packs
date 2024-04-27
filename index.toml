@@ -1337,11 +1337,6 @@ hash = "2b9b5a34a6f3cb5796b4e9996fe1da41d7b063b2727743aeed6c8d350d7cdbb6"
 metafile = true
 
 [[files]]
-file = "mods/extra-mod-integrations.pw.toml"
-hash = "a4f0a82e09bb2ad65e819ce3dc6333b67816aaefa152b4d92cdbe8e03685d177"
-metafile = true
-
-[[files]]
 file = "mods/fabric-seasons-delight-compat.pw.toml"
 hash = "9a787be39525c0ad8bfc755162990e22f802c94acb9cd4f968cb119f43b6d447"
 metafile = true
@@ -1687,8 +1682,8 @@ hash = "31b3bcbde9677f9fc1006aab482e6f43b7552146359cc4ef363e30a237d1d12b"
 metafile = true
 
 [[files]]
-file = "mods/sandwichable-1.3.1.b-farmersdelight+1.20.1.jar"
-hash = "8af475d3d490d7b61eb13547ff86b52b32e0043b9c4c4cc6d25ab952036575ce"
+file = "mods/sandwichable-1.3.1.c-farmersdelight+1.20.1.jar"
+hash = "7a1bebae8bc6eb29809b168dfde7695819cc9e67c8ad64c97c1b6c2d4496798d"
 
 [[files]]
 file = "mods/simple-durability-tooltip.pw.toml"
