@@ -1367,8 +1367,8 @@ hash = "948e8a5d65ede4a8612a2f476d7b3b0f2fe00436ab3b8dd73829d4bdcf0cdf22"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight.pw.toml"
-hash = "dc4a6ad558baacff8619bcb127784bfa27eb6ca4c177eae12d86b833eca80694"
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "47bafe11594fcb8478584c0be20d7b530fb058f3f788dca343359a4b40984532"
 metafile = true
 
 [[files]]
