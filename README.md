@@ -64,7 +64,7 @@ The content added is a slight expansion on exploration, self-defense, and homest
 | [Consistency+](https://modrinth.com/mod/consistencyplus)                       | Adds missing block type variations for many blocks.                                                                           |
 | [Earth2Java](https://modrinth.com/mod/earth2java)                              | Adds cosmetic passive entity variants.                                                                                        |
 | [Fabric Seasons](https://modrinth.com/mod/fabric-seasons)                      | Adds crop-affecting and visual seasons to the world.                                                                          |
-| [Farmer's Delight](https://modrinth.com/mod/farmers-delight-fabric)            | Adds many new crops and cooking methods.                                                                                      |
+| [Farmer's Delight](https://modrinth.com/mod/farmers-delight-refabricated)      | Adds many new crops and cooking methods.                                                                                      |
 | [Fabric Waystones](https://modrinth.com/mod/fwaystones)                        | Adds a fast travel system of standing stones.                                                                                 |
 | [Lovely Snails](https://modrinth.com/mod/lovely-snails)                        | Adds tameable and rideable snails to the world.                                                                               |
 | [Repurposed Structures](https://modrinth.com/mod/repurposed-structures-fabric) | Adds new village variants to the world.                                                                                       |
@@ -94,7 +94,7 @@ Ecotones
 EMICompat
 Fabric Seasons: Delight Compat
 [Jar/Fork] Fabric Seasons
-Farmer's Delight [Fabric]
+Farmer's Delight Refabricated
 Fabric Waystones
 Geophilic
 Halfdoors
@@ -251,7 +251,7 @@ If you intend to play without shaders on a powerful machine, we highly recommend
 
 If you experience arachnophobia or otherwise need to disable the spawning of a mob entirely, try [VanillaDisable](https://modrinth.com/mod/vanilla-disable).
 
-If you'd like to play with a controller, install [MidnightControls](https://modrinth.com/mod/midnightcontrols) before playing.
+If you'd like to play with a controller, install [Controlify](https://modrinth.com/mod/controlify) before playing.
 
 If you get lost without a map mod, try [Antique Atlas 4](https://modrinth.com/mod/antique-atlas-4) - which we include in other editions.
 

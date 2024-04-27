@@ -1,13 +1,13 @@
 name = "YUNG's Better Dungeons"
-filename = "YungsBetterDungeons-1.20-Fabric-4.0.3.jar"
+filename = "YungsBetterDungeons-1.20-Fabric-4.0.4.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/o1C1Dkj5/versions/bSSS84Op/YungsBetterDungeons-1.20-Fabric-4.0.3.jar"
+url = "https://cdn.modrinth.com/data/o1C1Dkj5/versions/nidyvq2m/YungsBetterDungeons-1.20-Fabric-4.0.4.jar"
 hash-format = "sha1"
-hash = "a1e7a1f9eb9bda15abb711b5dd6e1087e7dd79d0"
+hash = "cb4ea32fe75c9dbcd62f6f3d3f912c1b79ac697a"
 
 [update]
 [update.modrinth]
 mod-id = "o1C1Dkj5"
-version = "bSSS84Op"
+version = "nidyvq2m"

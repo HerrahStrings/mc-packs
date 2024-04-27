@@ -1358,12 +1358,12 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "299e9bb9446e7b10045c0848eba53edd8bdb64630805f24441d0af8c25579b18"
+hash = "8d47de6a378f312e752c0ddd444107608f58d0825f07a64476bb4c4b05512082"
 metafile = true
 
 [[files]]
 file = "mods/antique-fwaystones.pw.toml"
-hash = "d91736c0ec1636dafe3d8cab0ab162c1bc8cf6b2a77a4e5b4a89c8fc201fc0ed"
+hash = "186b5f646f0ceb851e6558b722d420a35adbf8625cb43ac8b1fce01f02d7dbc7"
 metafile = true
 
 [[files]]
@@ -1532,7 +1532,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "5d08ee5a9dad38ed87772d437d7e1779fecc0baa4a0e6d33b324bce9908c60ea"
+hash = "b7a7971c44fd891674222a48df8999e379b8658d96ab9b3cf55c17c0b00bd1ce"
 metafile = true
 
 [[files]]
@@ -1556,7 +1556,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "ecbe7125b57e5c2990a7aa81f22adf687b298f748e5734a47ab216aded67851e"
+hash = "d356177b98557d3a9d385dae4d5042e73a7e81e5cafc2fd9073a952d572e7af7"
 metafile = true
 
 [[files]]
@@ -1591,7 +1591,7 @@ metafile = true
 
 [[files]]
 file = "mods/extra-mod-integrations.pw.toml"
-hash = "e92a6977724b5c8a841140dd5b368cc253f6b4049c22249eed98b86a39803e01"
+hash = "a4f0a82e09bb2ad65e819ce3dc6333b67816aaefa152b4d92cdbe8e03685d177"
 metafile = true
 
 [[files]]
@@ -1620,8 +1620,8 @@ hash = "948e8a5d65ede4a8612a2f476d7b3b0f2fe00436ab3b8dd73829d4bdcf0cdf22"
 metafile = true
 
 [[files]]
-file = "mods/farmers-delight.pw.toml"
-hash = "dc4a6ad558baacff8619bcb127784bfa27eb6ca4c177eae12d86b833eca80694"
+file = "mods/farmers-delight-refabricated.pw.toml"
+hash = "47bafe11594fcb8478584c0be20d7b530fb058f3f788dca343359a4b40984532"
 metafile = true
 
 [[files]]
@@ -1641,7 +1641,7 @@ metafile = true
 
 [[files]]
 file = "mods/fishing-real.pw.toml"
-hash = "1641f46d991917601e7b27581c4b3a1cebeaee58b3533afec8ee7fe80f2d3812"
+hash = "a68cac271d61863d8cc9c2e21dc25d22344d60f6ae07fc964590ec4445ea4334"
 metafile = true
 
 [[files]]
@@ -1671,7 +1671,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "bd0e1bfaa16148cd114e33d11ec8f742979ec5b9372f6baa6a335a316659e70e"
+hash = "5ced7018dfc37d708c019789aee53cfc54c4a9b31139557871627176182caf93"
 metafile = true
 
 [[files]]
@@ -1696,7 +1696,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "eb0d9a1475b609eb82f26d0440846d52034c1aef8fcc21ee1cc327dc52648f7d"
+hash = "bea7422cbe82074a7e6306cdcd0ab8941cce0e86e439fcbffd3d9930de3e32a3"
 metafile = true
 
 [[files]]
@@ -1790,7 +1790,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "160ab5c829c0af5fe32eaf637f13f953daee5eda164ca72833a8cee572e62e89"
+hash = "8bd4f3e61a962c0b730a9a9b5ce875b571ae7e39d350ad52b17f9fab467a3784"
 metafile = true
 
 [[files]]
@@ -1820,12 +1820,12 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "c60be719d5ede034bcc81d79fdec100b8d07c09a270ac01f571cf516840a263b"
+hash = "534011a1f0d612202fed7d8a6e835ac6ed9e27d3d755df231ca449683ca3cc64"
 metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "acfbe6632469f78f299d341895817ee1b678b7c03d773631399f574d99f87fef"
+hash = "189e1e8dee2aaa0d41b839acd8fce432ae041fa38d3b98fba0aedeb238b094ed"
 metafile = true
 
 [[files]]
@@ -1910,7 +1910,7 @@ metafile = true
 
 [[files]]
 file = "mods/quilt-loading-screen.pw.toml"
-hash = "0431d2fbc92b56108c48fc955caafbefcafeb69bc9773c5413daa89af5d87966"
+hash = "e08fdeed1d56d03938bc66e2f34fefe5df150afb6e8ec4d318f354d6413ec0ba"
 metafile = true
 
 [[files]]
@@ -1930,7 +1930,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "91f667412b617ba6e416ce5f7a3cb9d1805f9091e3de8998419ed81f158fc9f2"
+hash = "c26c14e3f229f501ffb9b87214d311a5d94dbdbb875cf2a7271b5527edfc8a77"
 metafile = true
 
 [[files]]
@@ -2102,7 +2102,7 @@ metafile = true
 
 [[files]]
 file = "mods/wthit.pw.toml"
-hash = "91978f4b1043fdb967540467524a28878f519d1ca3324ab3ea8c7adafe8fbbf2"
+hash = "f2d02a18307d912c2bf991e3e246e1b682396ac5caec21fd77a2bffde081b5b7"
 metafile = true
 
 [[files]]
@@ -2126,7 +2126,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
-hash = "58de55cfb9a33cb71eb7a50a55d6fdd9cc970fd866e603ab5373c9c3087a6d84"
+hash = "715036507f7d22a8749b80321bb11377d85e0f4b89d27c7461417af189513547"
 metafile = true
 
 [[files]]
