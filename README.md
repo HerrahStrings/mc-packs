@@ -51,7 +51,7 @@ Tinkerer's Quilt has all the information you need to know about the pack **in-ga
 No wiki, nothing - you **don't even need to read this whole description**.
 
 Most of the information is available in the **Introduction Quest Category**:
-![Quests: Introduction](https://cdn.modrinth.com/data/vrkQdo9Y/images/54e0e54c3c6097660e3810a7d7149ccd503c6af1.png)
+![Quests: Introduction](https://cdn.modrinth.com/data/vrkQdo9Y/images/2432c341d7b9a97080efc040767adc02c7dcf021.png)
 
 
 | Relevant Mod                                             | Summary                                                             |
