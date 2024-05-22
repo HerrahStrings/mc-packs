@@ -26,7 +26,7 @@ From **basic game progression** to **niche mechanics** like mechanisms, building
 <summary>Click to show Quest Previews</summary>
 
 #### The Basics - Overworld, Nether, End<br/>
-![Quests: The Basics](https://cdn.modrinth.com/data/vrkQdo9Y/images/9093fe651282b211fb41a564e397ad56f39d15c1.png)
+![Quests: The Basics](https://cdn.modrinth.com/data/vrkQdo9Y/images/412d7a413fd1d46cbf712dcb0c8b6be763098f1b.png)
 
 #### Homesteading - Transport, Housing, Farming (Renewables), Workshopping (Mechanisms)
 ![Quests: Homesteading](https://cdn.modrinth.com/data/vrkQdo9Y/images/5f5b0a4862a17bbce88b14ff54823a0619c4840c.png)
@@ -338,7 +338,8 @@ Effective: https://modrinth.com/mod/effective
 
 ---
 
-<center><b>Packs:</b> <i>Tinkerer's Quilt</i> (<a href="https://modrinth.com/modpack/tinkerers-silk">Silk</a>) - <a href="https://modrinth.com/modpack/switchy-pack">Switchy Pack</a></center>
-<center><b>Mods:</b> <a href="https://modrinth.com/mod/switchy">Switchy</a> - <a href="https://modrinth.com/mod/origins-minus">Origins Minus</a> (<a href="https://modrinth.com/mod/tinkerers-statures">Statures</a>) - <a href="https://modrinth.com/mod/tinkerers-smithing">Tinkerer's Smithing</a></center>
-
----
+<center>
+<b>Tinkerer's:</b> <i>Quilt</i> - <a href="https://modrinth.com/mod/tinkerers-smithing">Smithing</a> - <a href="https://modrinth.com/mod/origins-minus">Origins</a> - <a href="https://modrinth.com/mod/tinkerers-statures">Statures</a> - <a href="https://modrinth.com/mod/picohud">HUD</a><br/>
+<b>Loveletters:</b> <a href="https://modrinth.com/mod/inventory-tabs">Tabs</a> - <a href="https://modrinth.com/mod/antique-atlas-4">Atlas</a> - <a href="https://modrinth.com/mod/portable-crafting">Portable Crafting</a> - <a href="https://modrinth.com/mod/drogstyle">Drogstyle</a><br/>
+<b>Others:</b> <a href="https://modrinth.com/mod/switchy">Switchy</a> - <a href="https://modrinth.com/mod/crunchy-crunchy-advancements">Crunchy</a> - <a href="https://modrinth.com/mod/starcaller">Starcaller</a><br/>
+</center>
