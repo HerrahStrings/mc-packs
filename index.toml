@@ -162,7 +162,7 @@ hash = "b35ae87a0aafde3ae3c19960607108c6ef610775352df2018f87fe977f2dfcb1"
 
 [[files]]
 file = "config/heracles/quests/exploration/2591980163249EF1.json"
-hash = "29b7277ac6a0304b05c34c347b1aefcf513a468d0bfcfa3ff8eb58c54a6052a9"
+hash = "9bafd1b8c1500a51255f1619d5c2597e4ef661f00a99b7471739cde4949097f8"
 
 [[files]]
 file = "config/heracles/quests/exploration/28AFD314DDDE3FC4.json"
@@ -526,7 +526,7 @@ hash = "a7c87ddfbcb3ba10d465c5f267284b29e52b51545291779746a8ea1b323fad2d"
 
 [[files]]
 file = "config/heracles/quests/introduction/1474F51D2832FCD5.json"
-hash = "5a7c7cf2a943d51d938feab03b69d9ecc853bb0a5256e9abb502c556eb6565fd"
+hash = "8f0a2d43376692a573f3c0395525f0a9ef614a0145c0098b96503b421cab87eb"
 
 [[files]]
 file = "config/heracles/quests/introduction/15402DCFAC7CC56A.json"
@@ -1312,7 +1312,7 @@ metafile = true
 
 [[files]]
 file = "mods/now-playing.pw.toml"
-hash = "ee57c778ada6689562b2fdc67abf25f217b8c1d3bf56bdacade1554110f3de83"
+hash = "d9120db8ec9210078ad3a981aab2af62b8261d35822e9ce578fc097c54d89742"
 metafile = true
 
 [[files]]
