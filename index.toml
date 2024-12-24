@@ -498,7 +498,7 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "92dcd587a66356d3e321fef7e9537383aa8046a523f3275fb67457cf3fc98b3f"
+hash = "09724715b8561ee5b83c8d8dd3833443673b2e8942cfd971b6fbe2d842be78cd"
 metafile = true
 
 [[files]]
@@ -913,7 +913,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "1e68334c6c626d255b0b9161654fa68a71987426a78d694883e88e137b520f97"
+hash = "007f2bc8d076186736b25ab25d4b982e2362a9fd86153feeb38bf64385b7746d"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Dramatic Doors"
-filename = "DramaticDoors-QuiFabrge-1.19.2-3.1.5.jar"
+filename = "DramaticDoors-QuiFabrge-1.19.2-3.2.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/aQ7h7gal/versions/eMv2nU7L/DramaticDoors-QuiFabrge-1.19.2-3.1.5.jar"
+url = "https://cdn.modrinth.com/data/aQ7h7gal/versions/vcv0tlY4/DramaticDoors-QuiFabrge-1.19.2-3.2.7.jar"
 hash-format = "sha1"
-hash = "e9af9955c3d76b666674c4f3511b1e58cedbaac4"
+hash = "0a81eaa911bd588dd5447cab08bc3ad34fcc5daf"
 
 [update]
 [update.modrinth]
 mod-id = "aQ7h7gal"
-version = "eMv2nU7L"
+version = "vcv0tlY4"
