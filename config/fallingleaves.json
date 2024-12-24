@@ -1,0 +1,102 @@
+{
+  "version": 1,
+  "displayDebugData": false,
+  "enabled": true,
+  "leafSize": 5,
+  "leafLifespan": 200,
+  "leafSpawnRate": 2,
+  "coniferLeafSpawnRate": 0,
+  "cherrySpawnRate": 10,
+  "snowflakeSpawnRate": 2,
+  "dropFromPlayerPlacedBlocks": true,
+  "leavesOnBlockHit": true,
+  "minimumFreeSpaceBelow": 1,
+  "windEnabled": true,
+  "windlessDimensions": [
+    "minecraft:the_end",
+    "minecraft:the_nether"
+  ],
+  "leafSettings": {
+    "aurorasdeco:budding_jacaranda_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "minecraft:mangrove_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "minecraft:cherry_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "minecraft:birch_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "minecraft:azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "aurorasdeco:jacaranda_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "minecraft:acacia_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "yttr:squeeze_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "minecraft:flowering_azalea_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "minecraft:jungle_leaves": {
+      "spawnRateFactor": 0.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "yttr:squeezed_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "minecraft:oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "aurorasdeco:flowering_jacaranda_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "minecraft:dark_oak_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": false,
+      "spawnBreakingLeaves": true
+    },
+    "minecraft:spruce_leaves": {
+      "spawnRateFactor": 1.0,
+      "isConiferBlock": true,
+      "spawnBreakingLeaves": true
+    }
+  },
+  "leafSpawners": [],
+  "fallSpawnRateFactor": 1.8,
+  "winterSpawnRateFactor": 0.1,
+  "startingSpawnRadius": 0,
+  "decaySpawnRateFactor": 2.6,
+  "maxDecayLeaves": 9
+}
