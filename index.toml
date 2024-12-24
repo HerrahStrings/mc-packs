@@ -89,6 +89,10 @@ file = "config/fabrication/yeet_recipes.ini"
 hash = "3d0f2a0e965fe090a131fefc78e934c004fe5c91cdb5fa082d5b9f47b2934b0a"
 
 [[files]]
+file = "config/fallingleaves.json"
+hash = "fcd29ef763f0cf68806ab53d2d7b4d9efd9e473e349d117f65133190c03b562b"
+
+[[files]]
 file = "config/heracles/groups.txt"
 hash = "799f72b841ccf42d0406c9107f3850037beb3c14bfe32df41704411b793b67eb"
 
@@ -817,6 +821,10 @@ file = "config/isxander-main-menu-credits.json"
 hash = "9ede5f3c262d74cf2ec694d8c228f1fd8f3b363c13ba5695ea7eea2db6b63b0b"
 
 [[files]]
+file = "config/lambdynlights.toml"
+hash = "f331e0ec5f5c7a2cf3d161031379072eb8850ebdec2a29e0ec5efb9ef4c60218"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "0b47d0b6e65c4888517ca89941e8c46c5eba12bbb2fed511fc7ca716d0819329"
 
@@ -1040,7 +1048,7 @@ hash = "2c306c91e1086e8b4890088145fa1cda00cffc6e61cd5f1d7f606b464ff7da64"
 
 [[files]]
 file = "mods/crowmap.pw.toml"
-hash = "30f1ee40932a5918f97f85ac3c9bd48f2545e3baf0f40fde6a631606aae59b52"
+hash = "e6dc25caae751ecf7ac11b1a8612597cee2e2d0eaef579e5eacb5d7276c49ee1"
 metafile = true
 
 [[files]]
@@ -1324,7 +1332,7 @@ metafile = true
 
 [[files]]
 file = "mods/pehkui.pw.toml"
-hash = "993380cf705a99319f426d7c43f92ef6076adf2bfdbcd53a065b7d6dea4a565c"
+hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
 metafile = true
 
 [[files]]
@@ -1464,12 +1472,12 @@ metafile = true
 
 [[files]]
 file = "mods/swingthrough.pw.toml"
-hash = "164bd9070d86ca231da118c32790f2144195a29a9ed1c556fcbf9714a1e633f7"
+hash = "7fdfc826f000e59d53276a4db0619b2e478d9afccb871c8881d687af7952ad18"
 metafile = true
 
 [[files]]
 file = "mods/switchy-inventories.pw.toml"
-hash = "b7b3080acea13424a7f6301ec97b61eb6fb8b541abc0b43864da3768059e6e86"
+hash = "9b93cdecf4e107e9bbd3111b3fc04dbb94265b0fa2bc35c1b7b8bc9a209e0d5b"
 metafile = true
 
 [[files]]
@@ -1499,7 +1507,7 @@ metafile = true
 
 [[files]]
 file = "mods/tax-free-levels.pw.toml"
-hash = "1770b6174098a4030168201496a481fd9c335010104770b84636f17f3ef523c2"
+hash = "a8aec2d167fb085f1022e17cd72e7cac51d2b210dad1ef3bd54a2c7bb31d6a6a"
 metafile = true
 
 [[files]]
@@ -1509,7 +1517,7 @@ metafile = true
 
 [[files]]
 file = "mods/tinkerers-statures.pw.toml"
-hash = "0297277ea3edfd7303153212c8ed6504b8f03fd841a489b19a9730a6732e5934"
+hash = "5b6b0da02eceba98577cea32096ad1cfffbd1c53cbdb58751dc400b810d5eaa6"
 metafile = true
 
 [[files]]
@@ -1524,7 +1532,7 @@ metafile = true
 
 [[files]]
 file = "mods/totem-anywhere.pw.toml"
-hash = "80a08f7ba61f15061ce1fea737d38ee8f902faf7ef8c52b0459b8a29ceb754d1"
+hash = "526c9e2b01159e6484ae53fca3aa397dc1f1aa3883c544dd7e55a83d9d019a5c"
 metafile = true
 
 [[files]]
@@ -2136,12 +2144,12 @@ metafile = true
 
 [[files]]
 file = "resources/resourcepacks/xalis-enchanted-books.pw.toml"
-hash = "81e456094c4decb60cd5af5e7eaf53d9b3ba775aa05ea319c99d2325e60ca6a0"
+hash = "13c945a8aaa1993ffba820f02e2bd5a69655b69bba1ad043d0ae4b21fa9dc789"
 metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "67b9869a6115164afaa3747142a4a971a09789b6d89d2451888ab31d7ab5bfb8"
+hash = "cf8a4be539816ce1e8f589fd0a8bfd16267ae30a191d2bb32cd86de722920caf"
 metafile = true
 
 [[files]]
@@ -2151,12 +2159,12 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "93cc3c55259d0adef692cb4dda0ec348dab9f99b66b39e67f365ab5a1f070da2"
+hash = "e21971c5f90df0c42a6f494b7b66b4af2cf3a462215e631f68abbd9081938392"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-unbound.pw.toml"
-hash = "345a368be43732e614d93ffb06fa8c76fa8f6060f2d105455242d15acc97e80d"
+hash = "a0fc045008eab042b01f71df6ab896bdb65c907182716b094cc7932d1dad42e0"
 metafile = true
 
 [[files]]
@@ -2166,7 +2174,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/rethinking-voxels.pw.toml"
-hash = "d1591fa168a7e075122ab354fe31000866ec7bbc55991d267674445cd1c4e237"
+hash = "5a858b73cd053d094cc4e7894fa32219872dcf572604e6aa1f1e7ac2680d9bd2"
 metafile = true
 
 [[files]]
@@ -2176,10 +2184,10 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "50ca37438eae5a655f61902d7e498469f0cceddbb6ea42b4648001be50d3af5e"
+hash = "d83266a79d07b8ce8ce4d6285cf337991dba3696df4b26ef4d9985ea69667fda"
 metafile = true
 
 [[files]]
 file = "shaderpacks/super-duper-vanilla.pw.toml"
-hash = "1683c77bd28b838c8e79222036a0ecd0ae040d07f61f752faab6fbdf3672f1fb"
+hash = "6a49bf15707e943848d2dfadd7d8becabfff63b30f28c3688a8d0df17312dcee"
 metafile = true
