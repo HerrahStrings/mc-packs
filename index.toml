@@ -1113,7 +1113,7 @@ metafile = true
 
 [[files]]
 file = "mods/amplified-nether.pw.toml"
-hash = "91e0b88ddb7c83790ade2fac07acf67341bae6d5cc93ec0e6434c56d7b791106"
+hash = "8f16cfd00838e0fea189de57429e08a632944d48a62140d52af15c54b520c9b5"
 metafile = true
 
 [[files]]
@@ -1123,12 +1123,12 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "8d47de6a378f312e752c0ddd444107608f58d0825f07a64476bb4c4b05512082"
+hash = "81eb15f2c0ad52076b141fed58782a92140e1584ea31b457d65a3f53e2045aba"
 metafile = true
 
 [[files]]
 file = "mods/antique-fwaystones.pw.toml"
-hash = "186b5f646f0ceb851e6558b722d420a35adbf8625cb43ac8b1fce01f02d7dbc7"
+hash = "6de773fbf1e88a25da1e426fccbfc80f2bdc27ae33a21f809c927f2bd304e049"
 metafile = true
 
 [[files]]
@@ -1183,7 +1183,7 @@ metafile = true
 
 [[files]]
 file = "mods/bovines-and-buttercups.pw.toml"
-hash = "edc67c14068a609dd79b1a73a428ad1354479fe4aa349cf3eea2628fa4bbe912"
+hash = "79ad071b099002b534f289d8c048efd7d2535a4221c59464eef114677887484b"
 metafile = true
 
 [[files]]
@@ -1277,7 +1277,7 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "ccdd24b949ad8647f0963333614c46544cb7fa8d76deb3d6ab9887b680d03506"
+hash = "f087ca76bf8bca15fcb67227296ca6ad48405aeaa10bad8b74b230a9e106197e"
 metafile = true
 
 [[files]]
@@ -1351,7 +1351,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-seasons.pw.toml"
-hash = "a279b276bfeff8bf9b475d90cad4a7c1359e295cca6c5bf5b79e4e6746e3d704"
+hash = "d3806be21cac350030f45d22598308029b3e132702ab8ca403e384db101c33e1"
 metafile = true
 
 [[files]]
@@ -1371,7 +1371,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "47bafe11594fcb8478584c0be20d7b530fb058f3f788dca343359a4b40984532"
+hash = "dd839918f7703277e43c2e3f0bd5912afe8572611c29efb60ed969ef26d4660f"
 metafile = true
 
 [[files]]
@@ -1401,7 +1401,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "01e047ce12403a657fc6669ff521a0d43cdc849aaccd217b7a055c58197cea99"
+hash = "cbf61288a00b4a1e5fee595844cef1a02f0e37e20f8ea86fdfa5203b1f4ad933"
 metafile = true
 
 [[files]]
@@ -1676,7 +1676,7 @@ metafile = true
 
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
-hash = "c26c14e3f229f501ffb9b87214d311a5d94dbdbb875cf2a7271b5527edfc8a77"
+hash = "804030242306d7b5feb330f905cf8349d923376e5667544b260e19b05ffdf0d9"
 metafile = true
 
 [[files]]
@@ -1858,7 +1858,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "95d6181cf78eb40066382ec4cdc27b101bda35e4a84523d7c46b4d936727af98"
+hash = "034caf58b16e185d8b240dccf5f8e015e47ac3bc35ecace36622e69b6d04e5c1"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Fabric Seasons"
-filename = "fabric-seasons-2.3+1.20.jar"
+filename = "fabric-seasons-2.4.2-BETA+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KJe6y9Eu/versions/uMEzKato/fabric-seasons-2.3%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/KJe6y9Eu/versions/sdV8aBn8/fabric-seasons-2.4.2-BETA%2B1.20.jar"
 hash-format = "sha1"
-hash = "ad7a86f9bf9d2fed80b186422ab5e73bf235f4f8"
+hash = "635c16010a0e9003c99154b15dfc53ac0d28fd3b"
 
 [update]
 [update.modrinth]
 mod-id = "KJe6y9Eu"
-version = "uMEzKato"
+version = "sdV8aBn8"
