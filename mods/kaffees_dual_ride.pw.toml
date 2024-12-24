@@ -1,13 +1,7 @@
-name = "Kaffee's Dual Ride"
-filename = "Kaffee's_Dual_Ride-mc1.20.1-1.1.0.jar"
-side = "both"
+name = "kaffees_dual_ride"
+filename = "kaffees_dual_ride-1.1.1+1.20.jar"
 
 [download]
-url = "https://cdn.modrinth.com/data/dv1QW2PN/versions/lzZF1p8s/Kaffee%27s_Dual_Ride-mc1.20.1-1.1.0.jar"
-hash-format = "sha1"
-hash = "e5543b1ec6e7e10ebc49cbdc77729f72c0694e58"
-
-[update]
-[update.modrinth]
-mod-id = "dv1QW2PN"
-version = "lzZF1p8s"
+url = "https://github.com/sisby-folk/kaffees_dual_ride/releases/download/v1.1.1%2B1.20/kaffees_dual_ride-1.1.1+1.20.jar"
+hash-format = "sha256"
+hash = "1e24ef676ce5a123f00022bc7c8f805d408104c207a97dd2a2e8447c5377c91e"
