@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "e6fe5617744412affd21696a1ccbea32932aa6f3f9c080ad6b1dd40f9cbd36c2"
+hash = "b4d252ff38c9e88460e1ab36f808842ffa6233a615a959593a77d88e30c65340"
 metafile = true
 
 [[files]]
@@ -499,7 +499,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-fabric.pw.toml"
-hash = "554469202953482b511629f0adf3dafcaf9fe29a6026425c0e56b646e015e6e0"
+hash = "77d0a15bc61ce7b8a0afe4b057b13ace0a6b1b94939a1f8aeec9f612c54976b2"
 metafile = true
 
 [[files]]
@@ -978,7 +978,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "b8b05210624a4edae6cb92795f96293375259f79bfbc90c359944b2c5561171e"
+hash = "9448cb0169afaa38a1f1aeb72ac9727779c6fc452bdff20393873d4e8fb5601f"
 metafile = true
 
 [[files]]
