@@ -1471,6 +1471,11 @@ hash = "8a6442ca759237fb4346e02653feba023529db29127c6b20740801199395241d"
 metafile = true
 
 [[files]]
+file = "mods/surveyor.pw.toml"
+hash = "272d6f810e6ab5d2626b7822252558b68ed69237dd3f3906abcae3c347070735"
+metafile = true
+
+[[files]]
 file = "mods/swingthrough.pw.toml"
 hash = "7fdfc826f000e59d53276a4db0619b2e478d9afccb871c8881d687af7952ad18"
 metafile = true
