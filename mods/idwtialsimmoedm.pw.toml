@@ -1,13 +1,13 @@
 name = "Idwtialsimmoedm"
-filename = "idwtialsimmoedm-0.3.0+1.20.jar"
+filename = "idwtialsimmoedm-0.3.1+1.20.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ad89WlWh/versions/r64mao6F/idwtialsimmoedm-0.3.0%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/ad89WlWh/versions/mt6ldABY/idwtialsimmoedm-0.3.1%2B1.20.jar"
 hash-format = "sha1"
-hash = "9ba46e1882422c71837aefc33b93ed214e30e556"
+hash = "492d28f486f5c55dc235be01842d6522bd5cc18c"
 
 [update]
 [update.modrinth]
 mod-id = "ad89WlWh"
-version = "r64mao6F"
+version = "mt6ldABY"

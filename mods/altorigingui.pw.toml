@@ -1,13 +1,13 @@
 name = "Alternate Origin GUI"
-filename = "altorigingui-1.20.1-1.0.1.jar"
+filename = "AltOriginGui-fabric-1.20.1-1.1.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ldWHqZwQ/versions/2Xvkw6un/altorigingui-1.20.1-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/ldWHqZwQ/versions/oSJyDQ48/AltOriginGui-fabric-1.20.1-1.1.1.jar"
 hash-format = "sha1"
-hash = "23426753bc7a0ab84c1627b059aee3717a2bf3f9"
+hash = "ebc8f0215bcc999c8af2afe15cdc5e1ef31e30b6"
 
 [update]
 [update.modrinth]
 mod-id = "ldWHqZwQ"
-version = "2Xvkw6un"
+version = "oSJyDQ48"
