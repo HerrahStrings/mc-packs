@@ -3,11 +3,11 @@ filename = "Kaffee's_Dual_Ride-mc1.20.1-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dv1QW2PN/versions/yXe8QjGL/Kaffee%27s_Dual_Ride-mc1.20.1-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/dv1QW2PN/versions/lzZF1p8s/Kaffee%27s_Dual_Ride-mc1.20.1-1.1.0.jar"
 hash-format = "sha1"
-hash = "a224de9e4d00b651275f6349171c5e7e96dccfe9"
+hash = "e5543b1ec6e7e10ebc49cbdc77729f72c0694e58"
 
 [update]
 [update.modrinth]
 mod-id = "dv1QW2PN"
-version = "yXe8QjGL"
+version = "lzZF1p8s"

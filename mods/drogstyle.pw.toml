@@ -1,13 +1,13 @@
 name = "Drogstyle"
-filename = "drogstyle-1.3.4+1.20.jar"
+filename = "drogstyle-1.3.5+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MAmi6HBa/versions/z4qChwEw/drogstyle-1.3.4%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/MAmi6HBa/versions/KtRDEOSN/drogstyle-1.3.5%2B1.20.jar"
 hash-format = "sha1"
-hash = "7a114fe00156d27881cd8e5e309320055cbfd908"
+hash = "455007068b4129ec39ef3d2df6593da037acd990"
 
 [update]
 [update.modrinth]
 mod-id = "MAmi6HBa"
-version = "z4qChwEw"
+version = "KtRDEOSN"
