@@ -1291,11 +1291,6 @@ hash = "f5eb9d19a205a42dbb9d8ad4ee95e2cf0364814dd8416a9147b21f261dd93c97"
 metafile = true
 
 [[files]]
-file = "mods/music-notification.pw.toml"
-hash = "8e178936dcf1278c41c81fb543ef503d1d2abd27dec5f2093f9c0a7d0b7e8257"
-metafile = true
-
-[[files]]
 file = "mods/nbt-autocomplete.pw.toml"
 hash = "027116fd062a5312d13a801a191823564790bb33e87ded7c01810e532840c78f"
 metafile = true
@@ -1313,6 +1308,11 @@ metafile = true
 [[files]]
 file = "mods/notes.pw.toml"
 hash = "dfdd6d6e1ddca69c3815fd86c821bef75c195cb7465074a47967b90770ad05ad"
+metafile = true
+
+[[files]]
+file = "mods/now-playing.pw.toml"
+hash = "ee57c778ada6689562b2fdc67abf25f217b8c1d3bf56bdacade1554110f3de83"
 metafile = true
 
 [[files]]
