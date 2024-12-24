@@ -3,11 +3,11 @@ filename = "superDuperVanilla.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/LMIZZNxZ/versions/By3oTltx/superDuperVanilla.zip"
+url = "https://cdn.modrinth.com/data/LMIZZNxZ/versions/JpNRNtO7/superDuperVanilla.zip"
 hash-format = "sha1"
-hash = "7fef3607c5c12f642b2d683af6e35032d393608a"
+hash = "12ab3072ed6155a5b71be2afce7b918c0e12234e"
 
 [update]
 [update.modrinth]
 mod-id = "LMIZZNxZ"
-version = "By3oTltx"
+version = "JpNRNtO7"
