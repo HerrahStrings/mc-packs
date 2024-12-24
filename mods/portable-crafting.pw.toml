@@ -1,13 +1,13 @@
 name = "Portable Crafting"
-filename = "portable-crafting-2.2.1+1.19.jar"
+filename = "portable-crafting-3.0.3+1.19.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qmVRzDCY/versions/MaeoeYhk/portable-crafting-2.2.1%2B1.19.jar"
+url = "https://cdn.modrinth.com/data/qmVRzDCY/versions/52Vyvzz5/portable-crafting-3.0.3%2B1.19.jar"
 hash-format = "sha1"
-hash = "38c3f470b7b6797ce24daa62b770456a956e324a"
+hash = "7b54d7b526c242d65b173c610f57aa586860b1ac"
 
 [update]
 [update.modrinth]
 mod-id = "qmVRzDCY"
-version = "MaeoeYhk"
+version = "52Vyvzz5"
