@@ -813,7 +813,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "a388a910ef390ad409a166df59ac359c44957e8359802c2b93ed991f0209eec4"
+hash = "973e9e0ff5bfd0f6dba365c0f917c2460dbbbb2e38c537d349e57798020939fd"
 metafile = true
 
 [[files]]
@@ -833,7 +833,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-minus.pw.toml"
-hash = "0e711d673777d6d1b0b29545966b7f507ef0bce4d69be1bfe7a2e6adfa077acb"
+hash = "3b830eb017fb6498f5d92f324c5048ce2a9a449d400a14a9f3361808dba03672"
 metafile = true
 
 [[files]]
@@ -2321,7 +2321,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "cf8a4be539816ce1e8f589fd0a8bfd16267ae30a191d2bb32cd86de722920caf"
+hash = "5f9f72aacbc0041056412f18dd6ea18aa87a39307e7cd2babd80910e242fcb71"
 metafile = true
 
 [[files]]
