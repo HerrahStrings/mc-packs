@@ -1564,7 +1564,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "4cc1abaa97313cb8213c021b17d0711c23d3396112a4747d349ba9e60dceb796"
+hash = "c40b072ee52184434028d22973064d545e24a1f02405b96c352cd3a6b01d5f51"
 metafile = true
 
 [[files]]
@@ -1793,7 +1793,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "68452e94ddd4f29ffbf50ec05a71df40b4252ebbebf135578cc107103cbe891e"
+hash = "081d058fcbedf9b0211ceb19e83d067355c2386a150116a9f7ea102bb0224b76"
 metafile = true
 
 [[files]]
@@ -1823,7 +1823,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "0c0848481f5d05255917d05927bc6fca80d9f93e2b5fcea262ea7c6fee7d3456"
+hash = "fd3657dfc971aff9705e1b023b682510a60dba30208deb69f9fa12f4fd75df48"
 metafile = true
 
 [[files]]
@@ -1843,7 +1843,7 @@ metafile = true
 
 [[files]]
 file = "mods/origins-minus.pw.toml"
-hash = "c9b8a5f148cdaf6a0daad8ee57421836145ec169397d23ef57bc314ab8e4d248"
+hash = "4202bf2874ec062b08f066c734382a8609a85bcfe17192bdc3a3cfd95214f703"
 metafile = true
 
 [[files]]
@@ -3536,7 +3536,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "cf8a4be539816ce1e8f589fd0a8bfd16267ae30a191d2bb32cd86de722920caf"
+hash = "5f9f72aacbc0041056412f18dd6ea18aa87a39307e7cd2babd80910e242fcb71"
 metafile = true
 
 [[files]]
