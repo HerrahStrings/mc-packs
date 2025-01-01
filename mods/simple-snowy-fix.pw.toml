@@ -1,6 +1,6 @@
 name = "Simple Snowy Fix"
 filename = "simple-snowy-fix-1.0.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/NnbdLUli/versions/gDuqWNud/simple-snowy-fix-1.0.0.jar"
