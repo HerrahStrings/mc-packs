@@ -1366,7 +1366,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "81eb15f2c0ad52076b141fed58782a92140e1584ea31b457d65a3f53e2045aba"
+hash = "3cbffddbfae46df3ef1d64d2f1069f3bd0baecc1c7b491da8c28c5134ed946da"
 metafile = true
 
 [[files]]
@@ -1624,7 +1624,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "dd839918f7703277e43c2e3f0bd5912afe8572611c29efb60ed969ef26d4660f"
+hash = "2626f4f170463f0c3550645ba4699d29aa0c30f1a99e0ff3143782f974fcf2e3"
 metafile = true
 
 [[files]]
@@ -3571,7 +3571,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/solas-shader.pw.toml"
-hash = "d83266a79d07b8ce8ce4d6285cf337991dba3696df4b26ef4d9985ea69667fda"
+hash = "56c857a0b08c2f727aa132a4b9317a5de281a40a424f94c54ad744f1fa9d93a9"
 metafile = true
 
 [[files]]
