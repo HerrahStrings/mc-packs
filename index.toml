@@ -1346,6 +1346,11 @@ hash = "aaba045892b24783ef7ca999393afef7886a92df251d87430a0c9f32b74ba5a0"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "a4ff54aeb90fd648379f4533e25397a925aff68a52be669b61e0c7872a5de679"
+metafile = true
+
+[[files]]
 file = "mods/portable-crafting.pw.toml"
 hash = "f38ce7b2f1209c1c8232a5d76c0282ac218530e58488ec1afbfed903e7112aca"
 metafile = true
