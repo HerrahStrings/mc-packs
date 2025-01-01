@@ -290,11 +290,6 @@ hash = "d607c1487fd6296778a954162c33bc9ba04a1f170a6bb454d1a850835dadb9d2"
 metafile = true
 
 [[files]]
-file = "mods/bedrockwaters.pw.toml"
-hash = "e143f0581d9a5079eef15faa984c73f8b242d7a54c0472b1ed461789eb91241b"
-metafile = true
-
-[[files]]
 file = "mods/better-end-sky.pw.toml"
 hash = "9db7e0c35795f22069c8e789d5c1276a1b433aa26f287e3e80275b244a11d2ff"
 metafile = true
@@ -677,6 +672,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "63e603aacd627262576ba4da78716c44957ab1a8013ba0129a56470a55ebe571"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "a4ff54aeb90fd648379f4533e25397a925aff68a52be669b61e0c7872a5de679"
 metafile = true
 
 [[files]]
@@ -1425,6 +1425,11 @@ hash = "f8ff75e945559496f89938550e717dd259f803911f9b22e54ed8ac8969c57c49"
 [[files]]
 file = "resources/resourcepacks/axolotl-bucket-variants.pw.toml"
 hash = "5629447454b0a7c1feeaf83a1bea58bb8031db23e2bfdede5588a4319745ec25"
+metafile = true
+
+[[files]]
+file = "resources/resourcepacks/bedrock-waters.pw.toml"
+hash = "16760b3009063ec7ba7aa26ab02dbdbb14ec485a59071fefca85b171f42c116e"
 metafile = true
 
 [[files]]
