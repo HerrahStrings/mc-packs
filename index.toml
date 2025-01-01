@@ -932,7 +932,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-snowy-fix.pw.toml"
-hash = "63a6e44282a76510c30782da7e8686c42ca5ffc9f063f0d120c480b7a61de681"
+hash = "fa5883dc79dc033432e352080238fb120b94f9b54d73b4b5f44173b09dd13866"
 metafile = true
 
 [[files]]
