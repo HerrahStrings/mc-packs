@@ -2363,7 +2363,3 @@ metafile = true
 file = "shaderpacks/super-duper-vanilla.pw.toml"
 hash = "6a49bf15707e943848d2dfadd7d8becabfff63b30f28c3688a8d0df17312dcee"
 metafile = true
-
-[[files]]
-file = "unsup.toml"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
