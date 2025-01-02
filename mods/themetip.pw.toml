@@ -1,0 +1,13 @@
+name = "themetip"
+filename = "themetip-u0.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ggOHbDrC/versions/nqOUltUx/themetip-u0.6.jar"
+hash-format = "sha1"
+hash = "247834fd71e430afcccb3085b851030acbc38a80"
+
+[update]
+[update.modrinth]
+mod-id = "ggOHbDrC"
+version = "nqOUltUx"

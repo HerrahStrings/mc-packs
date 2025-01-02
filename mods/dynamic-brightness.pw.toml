@@ -1,0 +1,13 @@
+name = "Dynamic Brightness"
+filename = "DynamicBrightness-1.20-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qTnNnvU0/versions/Iqcr2Ds2/DynamicBrightness-1.20-1.0.0.jar"
+hash-format = "sha1"
+hash = "a822900ce54450954732cafe6dc00cdc961765ec"
+
+[update]
+[update.modrinth]
+mod-id = "qTnNnvU0"
+version = "Iqcr2Ds2"
