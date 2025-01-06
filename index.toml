@@ -821,8 +821,8 @@ file = "config/isxander-main-menu-credits.json"
 hash = "9ede5f3c262d74cf2ec694d8c228f1fd8f3b363c13ba5695ea7eea2db6b63b0b"
 
 [[files]]
-file = "config/item-descriptions.json"
-hash = "a7cad419e6c6e0f168ad2c7a6547fa0fd94a7028ca49b4fc2eb06a7b13763abb"
+file = "config/item_descriptions.toml"
+hash = "f809edcef2d757f845ccf397e1c8028f1e6c2b9b67a4ac581d9ac3d912bc1c1f"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -1253,9 +1253,8 @@ hash = "a4ead715d6d053581edbbecac7d8cdae57d941503d0ccec8aca5ef26ba3b1341"
 metafile = true
 
 [[files]]
-file = "mods/item-descriptions.pw.toml"
-hash = "c9be5c4e56ea07b0a4e0ef3cf72ed48fbae5f464870771317b9e04eac075612b"
-metafile = true
+file = "mods/item-descriptions-fabric-1.11+1.20.jar"
+hash = "55e0091ca4430472170828542c1bc8ca90c04628fd44cdeccc38618997f33c09"
 
 [[files]]
 file = "mods/itemfavorites.pw.toml"
@@ -1689,7 +1688,7 @@ hash = "fa689f2d802c3933f47c5562aef25acb3d13974f80040e8246c3cab71bac68a7"
 
 [[files]]
 file = "resources/assets/tinkerer/lang/en_us.json"
-hash = "72ee03c1d9c451e3ca0276e192a162211461beb6e41baa5094aad44c98217273"
+hash = "ad5d3a74279cdedd1a6109c994b531d1776f6b135c64c58ce6f45d88b35f2d7d"
 
 [[files]]
 file = "resources/data/c/tags/items/boots.json"
