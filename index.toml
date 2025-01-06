@@ -69,6 +69,10 @@ file = "config/emi.css"
 hash = "f3b760aa5c69ffabbc8e0075a4c326b69b813fee041f1498b078af87bb72d081"
 
 [[files]]
+file = "config/emi_loot_config.toml"
+hash = "a71e57908e653ed967eb70d20ada894f53a229aae896a8c8132904fc440ae518"
+
+[[files]]
 file = "config/euphonium.toml"
 hash = "1847561c619eda6b779411ebea1344b2ed495fa7955981fe3a64d6faeca9d0d6"
 
@@ -1554,6 +1558,11 @@ hash = "8866da2a9d6a117f9208cca8020883b581cc7e0f68543c0de1fe78ba31e76ad0"
 metafile = true
 
 [[files]]
+file = "mods/symbols-n-stuff.pw.toml"
+hash = "97d94efd0a9f2518edc01029153a2ab98bdba84f8481fb85b7a9f6c65d796246"
+metafile = true
+
+[[files]]
 file = "mods/tall-flower-pots.pw.toml"
 hash = "63e4385fc8d762efa1dd9e0921d975f7684e91c52b060b6b4b499fbab30b6c8e"
 metafile = true
@@ -1581,11 +1590,6 @@ metafile = true
 [[files]]
 file = "mods/tips.pw.toml"
 hash = "bb519a58938a902ff23c27a5fddfed432763d1b62b8393e4fb9a8b27d2199057"
-metafile = true
-
-[[files]]
-file = "mods/tooltipfix.pw.toml"
-hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
 
 [[files]]
