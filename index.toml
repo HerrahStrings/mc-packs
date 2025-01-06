@@ -1230,6 +1230,11 @@ hash = "a4ead715d6d053581edbbecac7d8cdae57d941503d0ccec8aca5ef26ba3b1341"
 metafile = true
 
 [[files]]
+file = "mods/item-descriptions.pw.toml"
+hash = "c9be5c4e56ea07b0a4e0ef3cf72ed48fbae5f464870771317b9e04eac075612b"
+metafile = true
+
+[[files]]
 file = "mods/itemfavorites.pw.toml"
 hash = "a1b0ffa4d465293465dcc3a1fd273a4ec3d327e59c2ef7dd781f9169730930ea"
 metafile = true
@@ -1660,6 +1665,10 @@ hash = "d5d7090d2ab9d828c55b4f44c8adba3fb89365d191fb12d7da55b3e5bae67144"
 [[files]]
 file = "resourcepacks/Vanillatweaks_What_Spyglass.zip"
 hash = "74afe3bea48cc4a2971a20edabdead42bd3f587c002829ceca2ffc63880d3a62"
+
+[[files]]
+file = "resources/assets/item_descriptions/lang/en_us.json"
+hash = "f3468ccd586a9c0b9c8a45fc60a19591792dd9937edfb362eb0d01e112e1bbaa"
 
 [[files]]
 file = "resources/assets/loadingscreentips/loading_tips/tips.json"
