@@ -1119,6 +1119,11 @@ hash = "c40b072ee52184434028d22973064d545e24a1f02405b96c352cd3a6b01d5f51"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "91477cf93a41ce754e1dcaf83a778cea12bc33276a4ccf01fe78295ac3d00eb1"
+metafile = true
+
+[[files]]
 file = "mods/emi-ores.pw.toml"
 hash = "764be244495fd4534d234c1c6a3251454d9c003ed944305d4caa1c0074c643ab"
 metafile = true
@@ -1154,6 +1159,11 @@ hash = "2b9b5a34a6f3cb5796b4e9996fe1da41d7b063b2727743aeed6c8d350d7cdbb6"
 metafile = true
 
 [[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "4daf4333e077af7302ee17b14c7d45c245b89be171e2f5f9659033a458371cbb"
+metafile = true
+
+[[files]]
 file = "mods/fabrication.pw.toml"
 hash = "1a63f81e811280f2ed756473bd118cefe80cabdddebed1df30e323940d06459b"
 metafile = true
@@ -1186,6 +1196,11 @@ metafile = true
 [[files]]
 file = "mods/fishing-real.pw.toml"
 hash = "a68cac271d61863d8cc9c2e21dc25d22344d60f6ae07fc964590ec4445ea4334"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "04a0c0e942e733c850cf9dd77fa5f1dc47554fd972b099e1eb69255514f52969"
 metafile = true
 
 [[files]]
@@ -1409,11 +1424,6 @@ hash = "f7cebb9f191593ed8d3aee3a1bd3ea8c400625702aea0fd5d6ffb9db0105b926"
 metafile = true
 
 [[files]]
-file = "mods/qkl.pw.toml"
-hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
-metafile = true
-
-[[files]]
 file = "mods/qsl.pw.toml"
 hash = "7d7d72c26625edfc2f49247bded95192dd98bd0389bcddc82e0b03fa33661afe"
 metafile = true
@@ -1541,11 +1551,6 @@ metafile = true
 [[files]]
 file = "mods/switchy.pw.toml"
 hash = "8866da2a9d6a117f9208cca8020883b581cc7e0f68543c0de1fe78ba31e76ad0"
-metafile = true
-
-[[files]]
-file = "mods/switchykit.pw.toml"
-hash = "be6df0675d9aa6ba25b569bd6986a0457ce08631b157e3ca718b2cbf89cd2da2"
 metafile = true
 
 [[files]]
