@@ -1,0 +1,13 @@
+name = "Bee Dance"
+filename = "BeeDance-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PC3Nu9ft/versions/R715nc1y/BeeDance-1.1.2.jar"
+hash-format = "sha1"
+hash = "0ee553fc4db872ff82a2b028d4b228540853485e"
+
+[update]
+[update.modrinth]
+mod-id = "PC3Nu9ft"
+version = "R715nc1y"
