@@ -81,10 +81,6 @@ file = "config/clienttweaks-common.toml"
 hash = "6e69478836cd53650a962a92894eb11434cb681a6ab23f8961967fb8f364c0ab"
 
 [[files]]
-file = "config/colormatic.properties"
-hash = "4fcc090a9488eee469956b8f70fead42eb60b513a7ee3de696887dcda051dd35"
-
-[[files]]
 file = "config/customwindowtitle-client.toml"
 hash = "64434743708f356ef65b3b380e4eac61e037991e81c823ff8bf94635dac14b8e"
 
@@ -1201,6 +1197,10 @@ file = "config/isxander-main-menu-credits.json"
 hash = "33c3b6b1ec36fab277ddaf130916478972399b9d8d62c0224aa9ccf43bda9e91"
 
 [[files]]
+file = "config/item-descriptions.json"
+hash = "a7cad419e6c6e0f168ad2c7a6547fa0fd94a7028ca49b4fc2eb06a7b13763abb"
+
+[[files]]
 file = "config/lambdynlights.toml"
 hash = "f331e0ec5f5c7a2cf3d161031379072eb8850ebdec2a29e0ec5efb9ef4c60218"
 
@@ -1223,6 +1223,10 @@ hash = "342520c2852bfc107b0325bdd64339f396ba1a3d35fd0a6a5c828fc50ba6de82"
 [[files]]
 file = "config/naturescompass.json"
 hash = "a6a872fbce46949e96a433d5a088084d77c30e388b6da1542ffd8b773e682b4c"
+
+[[files]]
+file = "config/nicerskies.json"
+hash = "96c5afef2635da1e9dc553d597fe9a3d98a9a73ca8a174e0c2ffd5be4493496a"
 
 [[files]]
 file = "config/origins_server.json"
@@ -1299,6 +1303,10 @@ hash = "9ae03c8ae2d77dac24eed22ae517e82576aa03fdeb230976b3bfd8f297a7d768"
 [[files]]
 file = "config/switchy_resource_packs/config.toml"
 hash = "cde083d92431a8f400067e09d9c16998a54a7d69d8cd70fa21476ccf15e7a3ed"
+
+[[files]]
+file = "config/themetip.json5"
+hash = "6b2c2996f89d07689c09a3fe23c92155f9b035254d47394053a3e1e763890f27"
 
 [[files]]
 file = "config/waila/waila.json"
@@ -1410,8 +1418,18 @@ hash = "73faa6a82be2e6c791fa9754b3e05fbfdec82732d9f9a50573b497a07cb8797a"
 metafile = true
 
 [[files]]
+file = "mods/bee-dance.pw.toml"
+hash = "f8846db1f96ad02f98621d78d96c53cf00835bf44a05c16a7d7acaca0fbfacc4"
+metafile = true
+
+[[files]]
 file = "mods/better-end-sky.pw.toml"
 hash = "9d5eb5ff51dfc7123dfea318a027ec5fdf96ac9a29451367ce36cfcb88833679"
+metafile = true
+
+[[files]]
+file = "mods/better-falling-block-particles.pw.toml"
+hash = "bc3951ccf09a74b6a33e674fae657057a2ff1acf20d16b2e90b2b1b779821aad"
 metafile = true
 
 [[files]]
@@ -1539,6 +1557,11 @@ hash = "489952103b17a7b890a02cffe859c0ede5c1191ab8dc3dacbc772bc2012cb823"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-brightness.pw.toml"
+hash = "ce3f5ab34ca6b24dc1fe7d0f0a8345c331db16444c8de8f7e9feca08eabf2fc9"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "7a3c5d0b65753cbba5d36bac7f9afce62e45bc7b4d88aea7ffa99a47a59ee1af"
 metafile = true
@@ -1565,6 +1588,11 @@ metafile = true
 [[files]]
 file = "mods/elytra-trims.pw.toml"
 hash = "c40b072ee52184434028d22973064d545e24a1f02405b96c352cd3a6b01d5f51"
+metafile = true
+
+[[files]]
+file = "mods/emi-ores.pw.toml"
+hash = "764be244495fd4534d234c1c6a3251454d9c003ed944305d4caa1c0074c643ab"
 metafile = true
 
 [[files]]
@@ -1703,6 +1731,11 @@ hash = "a4ead715d6d053581edbbecac7d8cdae57d941503d0ccec8aca5ef26ba3b1341"
 metafile = true
 
 [[files]]
+file = "mods/item-descriptions.pw.toml"
+hash = "c9be5c4e56ea07b0a4e0ef3cf72ed48fbae5f464870771317b9e04eac075612b"
+metafile = true
+
+[[files]]
 file = "mods/itemfavorites.pw.toml"
 hash = "a1b0ffa4d465293465dcc3a1fd273a4ec3d327e59c2ef7dd781f9169730930ea"
 metafile = true
@@ -1817,6 +1850,11 @@ hash = "027116fd062a5312d13a801a191823564790bb33e87ded7c01810e532840c78f"
 metafile = true
 
 [[files]]
+file = "mods/nicer-skies.pw.toml"
+hash = "ddbcdf60f634287b6df241a873fc07b4ce56facfb358a0a74cb1df9acff97725"
+metafile = true
+
+[[files]]
 file = "mods/noisium.pw.toml"
 hash = "16d6aa9d44c46852330f1feec8e69bcb9b5409ea38b7f2db02e5dd38b9ecef5e"
 metafile = true
@@ -1874,6 +1912,11 @@ metafile = true
 [[files]]
 file = "mods/polaroidcamera.pw.toml"
 hash = "737ee5897cf8354ce9d767ed52382da37fab40c21907692ebce088a78e905487"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "7cce1ff8897373cfdcb91b2047269e102917b69ad5e7077fc77429cd762289b4"
 metafile = true
 
 [[files]]
@@ -2061,6 +2104,11 @@ hash = "a8aec2d167fb085f1022e17cd72e7cac51d2b210dad1ef3bd54a2c7bb31d6a6a"
 metafile = true
 
 [[files]]
+file = "mods/themetip.pw.toml"
+hash = "291d0aa950a10befb23dd960dd789ab65248c0458c58ad6a0210381b992f0043"
+metafile = true
+
+[[files]]
 file = "mods/tinkerers-smithing.pw.toml"
 hash = "c76ae1207fd5e5dda9ff3a5c92d6f2b6fdb3bbc6d339828361e8fab082960468"
 metafile = true
@@ -2083,6 +2131,11 @@ metafile = true
 [[files]]
 file = "mods/totem-anywhere.pw.toml"
 hash = "526c9e2b01159e6484ae53fca3aa397dc1f1aa3883c544dd7e55a83d9d019a5c"
+metafile = true
+
+[[files]]
+file = "mods/trimmable-tools.pw.toml"
+hash = "85705e91d71d5212b14fd17b5d8168299ab757a934d8874d29dbc1c44969e7ac"
 metafile = true
 
 [[files]]
@@ -2111,6 +2164,11 @@ metafile = true
 [[files]]
 file = "mods/wthit.pw.toml"
 hash = "01fcf5959d45f75c389798f468a3e410476ab0488b9c761032ce3fcff8ea648c"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "201ba6e2e8653ed0ef4b742c26f554f1008c3666b1e089e5703c4cd12972e5fa"
 metafile = true
 
 [[files]]
@@ -2229,6 +2287,10 @@ hash = "2356d06fe495073157291d714450b01820711eaf079d86e36320d4b271e2c077"
 [[files]]
 file = "resources/assets/aurorasdeco/textures/gui/tiles/lavender_grass4.png"
 hash = "1583e851a19d36755fa3279f4fd33e5d2189dbb7a6d4cd46e29211d94679f334"
+
+[[files]]
+file = "resources/assets/item_descriptions/lang/en_us.json"
+hash = "f3468ccd586a9c0b9c8a45fc60a19591792dd9937edfb362eb0d01e112e1bbaa"
 
 [[files]]
 file = "resources/assets/loadingscreentips/loading_tips/tips.json"
