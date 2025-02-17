@@ -1907,7 +1907,7 @@ metafile = true
 
 [[files]]
 file = "mods/malum-1.20.1-1.6.1.0d-fabric.jar"
-hash = "23d1ff37c919113be46c58cf40e895b633bec759c2ae31477a1184d699e82798"
+hash = "677592e2bea565bee8f051008769bd89d43eabc787c74c8e91024e3f8fd3af35"
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
