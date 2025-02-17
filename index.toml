@@ -86,7 +86,7 @@ hash = "6e69478836cd53650a962a92894eb11434cb681a6ab23f8961967fb8f364c0ab"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "64434743708f356ef65b3b380e4eac61e037991e81c823ff8bf94635dac14b8e"
+hash = "8e95e948a0f6d0ed67f92f1f2f3e48d15c39eda5af7895f65ee35282ba78d1ac"
 
 [[files]]
 file = "config/dramaticdoors.toml"
@@ -1202,7 +1202,7 @@ hash = "d82261cbaaecc17f96f8c94e7f3e0f08130f7a37112d0f0994fb08fe11abf5e3"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "33c3b6b1ec36fab277ddaf130916478972399b9d8d62c0224aa9ccf43bda9e91"
+hash = "d8107df27e783a1fbe499339ae7a63e1c11ca89d9ececc7f771458f62601584a"
 
 [[files]]
 file = "config/item_descriptions.toml"
