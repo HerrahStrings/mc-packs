@@ -1,13 +1,13 @@
 name = "You're in Grave Danger"
-filename = "youre-in-grave-danger-fabric-2.0.10.jar"
+filename = "youre-in-grave-danger-fabric-2.0.12.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HnD1GX6e/versions/YEzWRzSs/youre-in-grave-danger-fabric-2.0.10.jar"
+url = "https://cdn.modrinth.com/data/HnD1GX6e/versions/J9eRuFFx/youre-in-grave-danger-fabric-2.0.12.jar"
 hash-format = "sha1"
-hash = "5d40cac5596da84f5464a32b29ebc01e3b9e63db"
+hash = "df12b542eb033461ac62f19298206326c2b34ab9"
 
 [update]
 [update.modrinth]
 mod-id = "HnD1GX6e"
-version = "YEzWRzSs"
+version = "J9eRuFFx"
