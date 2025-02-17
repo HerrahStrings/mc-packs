@@ -2013,6 +2013,11 @@ hash = "4202bf2874ec062b08f066c734382a8609a85bcfe17192bdc3a3cfd95214f703"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "2e8e746d6f81c3dbb935bb2f3074d129574dd03d19d201975c5049fd70a54dc2"
 metafile = true
