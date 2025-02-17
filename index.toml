@@ -1958,6 +1958,11 @@ hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
+file = "mods/modonomicon.pw.toml"
+hash = "71e8a06cef4c957a93f975739b030d1bc3ca3fdf3b9c1b5a04b7e77d0c1c2784"
+metafile = true
+
+[[files]]
 file = "mods/mouse-wheelie.pw.toml"
 hash = "f5eb9d19a205a42dbb9d8ad4ee95e2cf0364814dd8416a9147b21f261dd93c97"
 metafile = true
@@ -2010,11 +2015,6 @@ metafile = true
 [[files]]
 file = "mods/owo-lib-111.pw.toml"
 hash = "cff0ca19ba193df7e9e159c8dd6952c3cbbdc36e9378e7f3f5505f57513fc46f"
-metafile = true
-
-[[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
 metafile = true
 
 [[files]]
@@ -2123,6 +2123,11 @@ hash = "04309568425eb622ffab10178d2fae3543788be54aa427ab640aea0c0dd5a4b9"
 metafile = true
 
 [[files]]
+file = "mods/revelationary.pw.toml"
+hash = "b8700fa491900e85e622a4cab30b278273cc814737ca772c5d462a352f7ef43c"
+metafile = true
+
+[[files]]
 file = "mods/ribbits.pw.toml"
 hash = "d42fb790b6faf6f05f8f48319dd3db79e795c77a6568adfbf38ccf289736ad35"
 metafile = true
@@ -2179,6 +2184,11 @@ metafile = true
 [[files]]
 file = "mods/soundsbegone.pw.toml"
 hash = "a6e749640e41f01665033aba74ea4b8ad81186a8665e2080000a12451575db39"
+metafile = true
+
+[[files]]
+file = "mods/spectrum.pw.toml"
+hash = "96e1600210b2f40aa5011e9ed1ac2137db3ecc17a616ae3759405d3b3cd545f6"
 metafile = true
 
 [[files]]
