@@ -1366,11 +1366,6 @@ hash = "4405f34d7f6fb3e111dfe7aac141a86515226327f0f420f6829ca2f77c11ccb9"
 metafile = true
 
 [[files]]
-file = "mods/accessories.pw.toml"
-hash = "cb39ef06c1fd27ac0e56e6b57054d6d7f0e67782358ca06c017e49e8bea147e5"
-metafile = true
-
-[[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "54d56e62cc589ed836efd59f5edb819b41bb94a4d824524ec4410173ea2d79c8"
 metafile = true
