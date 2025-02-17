@@ -1733,6 +1733,11 @@ hash = "c7a5c630a4a4ca34c18e817936e74af8eeeedbc3a610db57187474fde504d8cd"
 metafile = true
 
 [[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "7490f1d8470747776a496fef55effee60d527d1e3845280e35861c185d39a6a8"
+metafile = true
+
+[[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "8afe478f0e3b3d0609ea7efac63d9312302ab8261fffc964b9ad5d7b3d9eafc6"
 metafile = true
