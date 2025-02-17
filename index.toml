@@ -1135,7 +1135,7 @@ metafile = true
 
 [[files]]
 file = "mods/antique-atlas-4.pw.toml"
-hash = "3cbffddbfae46df3ef1d64d2f1069f3bd0baecc1c7b491da8c28c5134ed946da"
+hash = "9ade349d4567c1dff776f8b25d5f19c7965609b15134d91b63d129f028ce92eb"
 metafile = true
 
 [[files]]
@@ -1299,7 +1299,7 @@ metafile = true
 
 [[files]]
 file = "mods/dramatic-doors.pw.toml"
-hash = "f087ca76bf8bca15fcb67227296ca6ad48405aeaa10bad8b74b230a9e106197e"
+hash = "bfeb17ccb316a52c2e55be418df50b2087dedfd651b9612e245e50171e1b60de"
 metafile = true
 
 [[files]]
@@ -1367,6 +1367,11 @@ hash = "c297cfffa7839ce15782d5bd0c8c040da3a1dda600a78da4bd0bb0ee7eb3f3dd"
 metafile = true
 
 [[files]]
+file = "mods/enders-delight.pw.toml"
+hash = "cf83d64021829615a959f8ea225227659d5a2cde1d9628d2f61c11d22a63c122"
+metafile = true
+
+[[files]]
 file = "mods/enhanced-attack-indicator.pw.toml"
 hash = "bda35046f0b3d657acc0f32eaaead78999d353e0611f9760016e2c85c567a482"
 metafile = true
@@ -1413,7 +1418,7 @@ metafile = true
 
 [[files]]
 file = "mods/farmers-delight-refabricated.pw.toml"
-hash = "2626f4f170463f0c3550645ba4699d29aa0c30f1a99e0ff3143782f974fcf2e3"
+hash = "515fa38276d6194d04e920ee1248d98e1d96287c1037efb2ce9989080f2830c6"
 metafile = true
 
 [[files]]
@@ -1448,7 +1453,7 @@ metafile = true
 
 [[files]]
 file = "mods/geophilic.pw.toml"
-hash = "cbf61288a00b4a1e5fee595844cef1a02f0e37e20f8ea86fdfa5203b1f4ad933"
+hash = "1d23da26b4c53329f97a75af6119a083b08c8cde4b93bd1688e1ca1a2797e533"
 metafile = true
 
 [[files]]
