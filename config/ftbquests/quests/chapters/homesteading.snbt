@@ -114,8 +114,6 @@
 			dependencies: ["1233042213A9729E"]
 			description: [
 				"Many block types can be cut in the &3Stonecutter&r, producing various patterns and shapes."
-				""
-				"&7[Consistency+]&r Many exotic blocks can be used on the Sonecutter, like &3End Stone&r, &3Obsidian&r, both &3Bones&r both &3Warts&r, all colours of &3Terracotta&r, and even &eIce&r!"
 			]
 			hide: true
 			icon: "minecraft:light_gray_shulker_box"
@@ -216,12 +214,6 @@
 					count: 64
 					id: "69485A718A881256"
 					item: "minecraft:tuff"
-					type: "item"
-				}
-				{
-					count: 64
-					id: "50148DD6C2F17662"
-					item: "consistency_plus:soul_sandstone"
 					type: "item"
 				}
 				{
@@ -942,8 +934,6 @@
 				"&3Stonecutters&r are used to &dcheaply craft decorative blocks&r."
 				""
 				"By placing a stone-like block in the &3input slot&r, you can &dtransform it&r into many decorative and functional variants."
-				""
-				"&7[Architecture Extensions]&r Stonecutters can produce intricate blocks like &3Rooves&r, &3Arches&r, and &3Columns&r - even things like &eFence Post Caps&r out of &3Wood Planks&r."
 			]
 			hide: true
 			id: "1233042213A9729E"
@@ -2383,7 +2373,7 @@
 				"4E780825E91BA9CA"
 				"3D5694CCE8F191BC"
 			]
-			description: ["&7[Consistency+]&r &eDiamond Horse Armor&r can be &3Netherite&r-gilded."]
+			description: [""]
 			hide: true
 			hide_dependency_lines: true
 			icon: {
@@ -3142,8 +3132,6 @@
 				"For longer notes, craft a &3Book and Quill&r to write and store passages. &3Signing&r a book prevents it from being edited further."
 				""
 				"&7[Inventory Tabs]&r Placing an item frame on a &3Chest&r will &dchange its tab icon&r."
-				""
-				"&7[Consistency+]&r Instead of &3Glow Ink Sac&r, &eGlow Dye&r is used to &dmake Sign text and Item Frame items glow&r."
 			]
 			hide: true
 			id: "0342FEBA88E3AF0E"

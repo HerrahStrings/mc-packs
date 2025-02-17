@@ -126,7 +126,7 @@ hash = "063310847edb89b45a13fc11d1761606741c74674278d370c19ef1ed70db1a14"
 
 [[files]]
 file = "config/fabrication/yeet_recipes.ini"
-hash = "b32ce580810bd870b607114f458647e01b738dc89ab2766e8a6355586a85d35d"
+hash = "f68837db1b082e14318c79a64d4fd1d3a889617c25fc6be1d63e6746dde5c21f"
 
 [[files]]
 file = "config/fallingleaves.json"
@@ -462,7 +462,7 @@ hash = "d1059e73cd969d0742f2826fe5a437db5bca26beddefa9b02acd1477518ce9e1"
 
 [[files]]
 file = "config/heracles/quests/exploration/56295946AF0DD074.json"
-hash = "fccdeb7d27ed1c7e0880d7f861137ea5c5b14c3cee6e8bec391c02a91b751604"
+hash = "43d1d4193f276f4fada163d571bb32a2893d0b1be4980f73897270e71f818cb8"
 
 [[files]]
 file = "config/heracles/quests/exploration/562E842E71B5725B.json"
@@ -542,7 +542,7 @@ hash = "6707d969c30351c3729da0cb25b78a1c76f46c48d86699442e033e999723994d"
 
 [[files]]
 file = "config/heracles/quests/homesteading/0342FEBA88E3AF0E.json"
-hash = "1dfe85eab0c33b364f89c551c597dcfaa2c5862a1406e78f41de7d6058214177"
+hash = "fb426a6392002c531fb26c6943069f96f3649bff38012ba835fa025525ecd9bd"
 
 [[files]]
 file = "config/heracles/quests/homesteading/039E822D32DC0A9B.json"
@@ -578,7 +578,7 @@ hash = "43b3328ae9a5b708f51ba1bf99c22622a14696e08a02a2374f6f32f3763881be"
 
 [[files]]
 file = "config/heracles/quests/homesteading/1233042213A9729E.json"
-hash = "cff6ef6acb1d134de196ce99718ae68c57ecc14976b5df31779d504278974668"
+hash = "360eb731c1bfc6a56a66f5a919114e9c4891972c8afa51dbe4ed2efc8497fc86"
 
 [[files]]
 file = "config/heracles/quests/homesteading/1254376D14A00E56.json"
@@ -650,7 +650,7 @@ hash = "49d5c35e3f98505bcc18af6d6bfd90c6d010583449c6065262c8a329392c6f6c"
 
 [[files]]
 file = "config/heracles/quests/homesteading/3347D4D672927CA6.json"
-hash = "e80734793d7ab622a1186aac312904e8318b1e4ff1e71905bbfebe45f0b74465"
+hash = "be56d9d58b0bf92910128a729062ff5e8b1bb68c3f15d8046bb7c6cd70c442c0"
 
 [[files]]
 file = "config/heracles/quests/homesteading/3811025165802342.json"
@@ -754,7 +754,7 @@ hash = "95cb7ddbbb28a54ae03633cdda0f68ba3b18633d20bf43748c50741e258f768f"
 
 [[files]]
 file = "config/heracles/quests/homesteading/643F41D93DC1FB81.json"
-hash = "278ae261f41d1f66f22e549e4ef9b44baf2048d66181fc031ec37e94ccafab1c"
+hash = "082f98e8c2f1b313b50aa9d9c47fd70c30065dcd7022668a50b0d01f839f229e"
 
 [[files]]
 file = "config/heracles/quests/homesteading/645EFC73CEB1C918.json"
@@ -1416,11 +1416,6 @@ hash = "e3dfb2478e6bb096667d4ec89b0ddfef627747939373bdefee02f358d6e3dee1"
 metafile = true
 
 [[files]]
-file = "mods/arch-ex.pw.toml"
-hash = "06ae6401677dd9dbcb4edde0faad991812e7b8425e2e10c05913fccc9c261c71"
-metafile = true
-
-[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "0cbcd58c49decc0ecbccd330fcc8326e3b8769e22e1740e229f09541acf3df7f"
 metafile = true
@@ -1543,11 +1538,6 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b2d6595b73bd66167a4d7ace472c54c0eab45f55e1769f4ff7da72ce8b58872a"
-metafile = true
-
-[[files]]
-file = "mods/consistencyplus.pw.toml"
-hash = "43955855758931bdd6be5b736278141a700265181cecf7ad9d8ae196dad89c5c"
 metafile = true
 
 [[files]]
@@ -2593,14 +2583,6 @@ file = "resources/datapacks/campanion_delight_compat/pack.mcmeta"
 hash = "6f291676d11cae3a8cf38c6283a90a384997aee3f3d0d8b2af9295f19c3040b3"
 
 [[files]]
-file = "resources/datapacks/deco_consistency_compat/data/c/tags/items/hidden_from_recipe_viewers.json"
-hash = "3ac37b8be31ca11528210c57f302bef727f693671b07b420af150f7267cce3de"
-
-[[files]]
-file = "resources/datapacks/deco_consistency_compat/pack.mcmeta"
-hash = "354060901020a9c8a7a06004f2a0927f12cefa438534255e6674fd5e3b325ec5"
-
-[[files]]
 file = "resources/datapacks/hide_origin_orb/data/c/tags/items/hidden_from_recipe_viewers.json"
 hash = "e1ddaad4526210ee59d7c2800b259cd122167c35ca200485a3818abb0a3ad31a"
 
@@ -3599,14 +3581,6 @@ hash = "6213eb1ed3ffd15c1c2fb792033841ac5d78d05f9ad6d463c1f2330afa3dd242"
 [[files]]
 file = "resources/datapacks/tinkerers_smithing_chalk/pack.mcmeta"
 hash = "6c51f2d16e0192a561b037d103ffece287b7f5ffd90470be86044216872048c1"
-
-[[files]]
-file = "resources/datapacks/tinkerers_smithing_consistencyplus/data/tinkerers_smithing/tags/items/dework_materials.json"
-hash = "ecd290ab926a8074252c0167b77c0a47859db0cac23f4fe41bf22581cbfdc3d4"
-
-[[files]]
-file = "resources/datapacks/tinkerers_smithing_consistencyplus/pack.mcmeta"
-hash = "04dfe37a2cdcc0af6b73760e88d9bf4fc8d21ed6a15d8352f6eeac02b937f3f7"
 
 [[files]]
 file = "resources/datapacks/tinkerers_smithing_create/data/create/smithing_armor_materials/copper.json"

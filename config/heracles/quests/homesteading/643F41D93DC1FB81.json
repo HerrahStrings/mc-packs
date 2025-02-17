@@ -127,13 +127,6 @@
         "count": 64
       }
     },
-    "50148DD6C2F17662": {
-      "type": "heracles:item",
-      "item": {
-        "id": "consistency_plus:soul_sandstone",
-        "count": 64
-      }
-    },
     "3F19E460462C07C6": {
       "type": "heracles:item",
       "item": {
@@ -150,8 +143,6 @@
       "<task task=\"10DE07FBCB9E502D\" quest=\"643F41D93DC1FB81\"/>",
       "<hr/>",
       "Many block types can be cut in the &&3Stonecutter&&r, producing various patterns and shapes.",
-      "<br/>",
-      "&&7[Consistency+]&&r Many exotic blocks can be used on the Sonecutter, like &&3End Stone&&r, &&3Obsidian&&r, both &&3Bones&&r both &&3Warts&&r, all colours of &&3Terracotta&&r, and even &&eIce&&r!",
       "<hr/>",
       "<reward reward=\"6C0A6B21AD7C1390\" quest=\"643F41D93DC1FB81\"/>",
       "<reward reward=\"49B3112802884586\" quest=\"643F41D93DC1FB81\"/>",
