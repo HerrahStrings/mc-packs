@@ -1692,7 +1692,7 @@ hash = "fa689f2d802c3933f47c5562aef25acb3d13974f80040e8246c3cab71bac68a7"
 
 [[files]]
 file = "resources/assets/tinkerer/lang/en_us.json"
-hash = "ad5d3a74279cdedd1a6109c994b531d1776f6b135c64c58ce6f45d88b35f2d7d"
+hash = "72ee03c1d9c451e3ca0276e192a162211461beb6e41baa5094aad44c98217273"
 
 [[files]]
 file = "resources/data/c/tags/items/boots.json"
