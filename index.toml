@@ -1253,7 +1253,7 @@ metafile = true
 
 [[files]]
 file = "mods/item-descriptions-fabric-1.11+1.20.jar"
-hash = "46712c2c163b9ee803f76aa8eddbb491484a3617da525f9f9f779bed68743bea"
+hash = "4cf810c9359c30ae6b3e74d8fb79fc12bf1ae75182e86def7e256a4d9de6a593"
 
 [[files]]
 file = "mods/itemfavorites.pw.toml"
