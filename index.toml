@@ -1357,6 +1357,10 @@ file = "mods/DyeableFishingLines-1.0.1.jar"
 hash = "ddefc636d2494006640d7a0164a986172b00285da20e82b0e265f31ead045091"
 
 [[files]]
+file = "mods/FruitfulFun-1.20.1-Fabric-7.6.8.jar"
+hash = "d047e49e975272059743c24dbf9b09d887557acc1061a1216cb9bb16fe3c4d7f"
+
+[[files]]
 file = "mods/Origins-1.20.1-1.10.0.jar"
 hash = "01675e2b3732782f5bfbc08a211f739c8123b269bb9f40d36ac56d9fbc90ae3d"
 
@@ -1729,11 +1733,6 @@ hash = "c7a5c630a4a4ca34c18e817936e74af8eeeedbc3a610db57187474fde504d8cd"
 metafile = true
 
 [[files]]
-file = "mods/fruitful-fun.pw.toml"
-hash = "2ab21f8884121e3b3de63d67394d3a60b92d95778669c52458115e6065fe7b64"
-metafile = true
-
-[[files]]
 file = "mods/fwaystones.pw.toml"
 hash = "8afe478f0e3b3d0609ea7efac63d9312302ab8261fffc964b9ad5d7b3d9eafc6"
 metafile = true
@@ -1902,9 +1901,8 @@ hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
 metafile = true
 
 [[files]]
-file = "mods/malum.pw.toml"
-hash = "166058e88f8dd602d3f12416dbf01bc3e00ba6fb58b7a285cfb5e42e9d311a69"
-metafile = true
+file = "mods/malum-1.20.1-1.6.1.0d-fabric.jar"
+hash = "23d1ff37c919113be46c58cf40e895b633bec759c2ae31477a1184d699e82798"
 
 [[files]]
 file = "mods/mcwifipnp.pw.toml"
