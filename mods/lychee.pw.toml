@@ -1,0 +1,13 @@
+name = "Lychee"
+filename = "Lychee-1.20.1-Fabric-5.1.15.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/TdN6LxjM/versions/B9MRMo9k/Lychee-1.20.1-Fabric-5.1.15.jar"
+hash-format = "sha1"
+hash = "a3a71a3e8e54348b516d67e485a1792328e8f8e0"
+
+[update]
+[update.modrinth]
+mod-id = "TdN6LxjM"
+version = "B9MRMo9k"

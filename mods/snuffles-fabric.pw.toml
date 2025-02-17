@@ -1,0 +1,13 @@
+name = "Snuffles (Fabric)"
+filename = "snuffles-1.0.0+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/nUsNRn4i/versions/Pvfzd1R8/snuffles-1.0.0%2B1.20.jar"
+hash-format = "sha1"
+hash = "80c212702f06d598d0b0299fde14b46567423614"
+
+[update]
+[update.modrinth]
+mod-id = "nUsNRn4i"
+version = "Pvfzd1R8"

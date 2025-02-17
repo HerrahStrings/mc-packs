@@ -1,0 +1,13 @@
+name = "Frights and Foliage"
+filename = "frights_and_foliage-1.20.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ch1rCuC6/versions/ZjBNsiSl/frights_and_foliage-1.20.1-1.0.1.jar"
+hash-format = "sha1"
+hash = "1b736f196dabfd46f65eb076c9d26e953e240b79"
+
+[update]
+[update.modrinth]
+mod-id = "Ch1rCuC6"
+version = "ZjBNsiSl"

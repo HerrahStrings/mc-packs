@@ -1,0 +1,13 @@
+name = "Lodestone"
+filename = "lodestone-1.20.1-1.6.2.3f-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bN3xUWdo/versions/IRyjw8OM/lodestone-1.20.1-1.6.2.3f-fabric.jar"
+hash-format = "sha1"
+hash = "a62983b81f6ebd81c40ab478264feadf741aa6df"
+
+[update]
+[update.modrinth]
+mod-id = "bN3xUWdo"
+version = "IRyjw8OM"
