@@ -937,6 +937,10 @@ file = "mods/Apoli-1.20.1-2.9.0+bc.23.3.jar"
 hash = "6a2ea2e7881b556aa4918eaf7e7a8ec456b9422b388cfce87888b9bd319f1c46"
 
 [[files]]
+file = "mods/Couplings-1.9.4+1.20.jar"
+hash = "cebb670160a00a7ef7e2fad2be4a585cd3120cffe818dc315cbcabebe839690d"
+
+[[files]]
 file = "mods/DyeableFishingLines-1.0.1.jar"
 hash = "ddefc636d2494006640d7a0164a986172b00285da20e82b0e265f31ead045091"
 
@@ -1057,11 +1061,6 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "f0f18290ff48f9060307f5776f7b2307e8d2cb72aa14f3c799a63d7b1e3efe0a"
-metafile = true
-
-[[files]]
-file = "mods/couplings.pw.toml"
-hash = "47e796fa0168407d6bf12e3aac6cf29881960df43ed21f844ab34ac891ee0730"
 metafile = true
 
 [[files]]
