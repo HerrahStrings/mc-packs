@@ -1448,7 +1448,7 @@ metafile = true
 
 [[files]]
 file = "mods/botania.pw.toml"
-hash = "765b8610aa5698a8ff45cc270516388e4882ce0d8db34eafd7c2c2a7cd8577a4"
+hash = "508b7e8832132789ba714679207a88a69f85ed73c8c8f45d89e8dea545b4faba"
 metafile = true
 
 [[files]]
@@ -1914,7 +1914,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
+hash = "2e8e746d6f81c3dbb935bb2f3074d129574dd03d19d201975c5049fd70a54dc2"
 metafile = true
 
 [[files]]
@@ -2195,8 +2195,9 @@ hash = "87fd0070fa03eebe2ec103cf90e019d3c07ce95c6fb3cc81d20978ff2ffb6bd9"
 metafile = true
 
 [[files]]
-file = "mods/yttr-7.751+1.20.jar"
-hash = "15d1a99574aca1eb68bc02755acea5fa68d86ca93245680ee0b020e04ae45865"
+file = "mods/yttr.pw.toml"
+hash = "493f5ceec9fa7eaf0339608183afbf2595074f541c52abaf6028ee3b485f1ca1"
+metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"

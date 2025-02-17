@@ -1,0 +1,7 @@
+name = "yttr"
+filename = "yttr-8.20.737.jar"
+
+[download]
+url = "https://unascribed.com/yttr-builds/dl/yttr-8.20.737.jar"
+hash-format = "sha256"
+hash = "851cea9cbd4a9b237bdfd866d70c6818b3df1c2540cbe8d722d30fea636618a0"
