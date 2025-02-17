@@ -1,6 +1,6 @@
 name = "Biolith"
 filename = "biolith-1.0.0-beta.2.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/iGEl6Crx/versions/XcRnagd4/biolith-1.0.0-beta.2.jar"
