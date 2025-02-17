@@ -1,6 +1,6 @@
 {
   "matchLeavesTypes": true,
-  "unknownLeavesOnlyMatchSelf": true,
+  "unknownLeavesOnlyMatchSelf": false,
   "matchLogsToLeaves": false,
   "ignorePersistentLeaves": true,
   "accelerateLeavesDecay": true,

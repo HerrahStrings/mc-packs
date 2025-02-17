@@ -13,6 +13,10 @@ file = "config/SkipTransitions.properties"
 hash = "65c60525a8520ef94fb060b187bc73dd57128c77d865d5e417538823eb97c679"
 
 [[files]]
+file = "config/aether-client.toml"
+hash = "78273f08920fd81974291758b65c92628ff4a3df29e7e31c336e79d90ed8a0c1"
+
+[[files]]
 file = "config/aileron.json"
 hash = "ef5d54ad5552076138b7ecaca713917fdb7069d8d6199d6a9dc5fdfef614c10e"
 
@@ -1210,7 +1214,7 @@ hash = "f331e0ec5f5c7a2cf3d161031379072eb8850ebdec2a29e0ec5efb9ef4c60218"
 
 [[files]]
 file = "config/leaves_us_in_peace.json"
-hash = "c4c42f2426bf3c69ce43ee7f05ee14aa4d006b74654d1982edd5ffdcb4b8298a"
+hash = "f7c4b7f22f5833d4abc807a50c037cbbab672adc598acfa9fc8e8d5ef05118b0"
 
 [[files]]
 file = "config/lithium.properties"
@@ -1369,11 +1373,6 @@ metafile = true
 [[files]]
 file = "mods/ad-astra.pw.toml"
 hash = "54d56e62cc589ed836efd59f5edb819b41bb94a4d824524ec4410173ea2d79c8"
-metafile = true
-
-[[files]]
-file = "mods/aether.pw.toml"
-hash = "56fd713680097923d80741519fca05e6301fbc35cbff30d792641bfa1a2ddcf9"
 metafile = true
 
 [[files]]
@@ -1812,11 +1811,6 @@ metafile = true
 [[files]]
 file = "mods/inventory-sorting.pw.toml"
 hash = "82a7c9721c81c309d3c4dc2cf93ab12e1399894d03b738782ac04b0b7c232213"
-metafile = true
-
-[[files]]
-file = "mods/inventory-tabs.pw.toml"
-hash = "3d8906199a642080cb73626077d957cbf7b1c831a22b7343db1f37b151f36ada"
 metafile = true
 
 [[files]]
