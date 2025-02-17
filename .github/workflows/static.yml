@@ -3,7 +3,7 @@ name: Deploy static content to Pages
 
 on:
   push:
-    branches: ["website", "1.19", "1.19_plus", "1.19_modded", "1.20", "1.20_plus", "1.20_modded"]
+    branches: ["website", "1.19", "1.19_plus", "1.19_modded", "1.20", "1.20_plus", "1.20_modded", "1.20_garden"]
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -86,6 +86,15 @@ jobs:
           clean: false
       - name: import 1.20_modded - clean
         run: rm -rf cdn/1.20_modded/.git
+
+      - name: import 1.20_garden
+        uses: actions/checkout@v4
+        with:
+          ref: "1.20_garden"
+          path: cdn/1.20_garden
+          clean: false
+      - name: import 1.20_garden - clean
+        run: rm -rf cdn/1.20_garden/.git
 
       - name: Setup Pages
         uses: actions/configure-pages@v3
