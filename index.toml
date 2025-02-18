@@ -1763,6 +1763,11 @@ hash = "0fd17e84617bda753f3eba10b05d73e3975754589bd3e05e9ff7fcca1c77390a"
 metafile = true
 
 [[files]]
+file = "mods/hephaestus.pw.toml"
+hash = "2c822b9fdf6ce45c152b4dd74e24cb4fc25693839c7157898de9b0edbda7debf"
+metafile = true
+
+[[files]]
 file = "mods/heracles.pw.toml"
 hash = "b9012cd40181be144e60d904d6f387443fea89b4b334515e902e8b00c5e588d6"
 metafile = true
@@ -2027,6 +2032,11 @@ metafile = true
 [[files]]
 file = "mods/polaroidcamera.pw.toml"
 hash = "737ee5897cf8354ce9d767ed52382da37fab40c21907692ebce088a78e905487"
+metafile = true
+
+[[files]]
+file = "mods/pollinators-paradise.pw.toml"
+hash = "4bc7ec0c3972ca066d40c38f6d14a6660065812f6cc9915bbfc08ee5692e746e"
 metafile = true
 
 [[files]]

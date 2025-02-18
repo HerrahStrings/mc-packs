@@ -1,0 +1,13 @@
+name = "Pollinators' Paradise"
+filename = "pollinators-paradise-1.3.3+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Wkp3WGmm/versions/FuZpjaYu/pollinators-paradise-1.3.3%2B1.20.jar"
+hash-format = "sha1"
+hash = "3b6a565d33d8900db5b0657de664b38a8ed471ca"
+
+[update]
+[update.modrinth]
+mod-id = "Wkp3WGmm"
+version = "FuZpjaYu"
